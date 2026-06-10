@@ -4,7 +4,7 @@ about: You found/made a tool and want it added to the website. The tool must be 
   & no-signup & in-browser to be considered.
 title: "[Tool Addition Request] <TOOL_NAME>"
 labels: enhancement
-assignees: BraveOPotato
+assignees: ''
 
 ---
 
@@ -19,13 +19,14 @@ Tags: <ANY_KEYWORDS_YOU_LIKE>
 Github: <LINK_TO_GITHUB_REPOSITORY>
 Category: <CAN_BE_ANY_OF_CATEGORIES_BELOW>
 
-
+<br><br><br>
+---
 Categories:
-	Productivity
-	Design & Graphics
-	Development
-	Writing & Docs
-	Privacy
-	Utilities
-	Data & Analytics
-	Media
+* Productivity
+* Design & Graphics
+* Development
+* Writing & Docs
+* Privacy
+* Utilities
+* Data & Analytics
+* Media
