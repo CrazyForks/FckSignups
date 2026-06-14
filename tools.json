@@ -739,6 +739,114 @@
       "license": "MIT",
       "stars": 528,
       "featured": false
+    },
+    {
+      "id": "omniclip",
+      "name": "OmniClip",
+      "description": "Powerful video editor right in your browser",
+      "url": "https://omniclip.app/",
+      "category": "media",
+      "tags": ["video", "editor", "timeline"],
+      "github": "https://github.com/omni-media/omniclip",
+      "license": "MIT",
+      "stars": 1400,
+      "featured": false
+    },
+    {
+      "id": "phosphor-cam",
+      "name": "Phosphor-Cam",
+      "description": "Real-time ASCII art camera that transforms your webcam feed into glowing terminal aesthetics. Built with React + Canvas API",
+      "url": "https://phosphor-cam.vercel.app/",
+      "category": "design",
+      "tags": ["ascii-art", "real-time", "camera"],
+      "github": "https://github.com/pshycodr/phosphor-cam",
+      "license": "MIT",
+      "stars": 94,
+      "featured": false
+    },
+    {
+      "id": "easypeasycv",
+      "name": "EasyPeasyCV",
+      "description": "resume builder designed for professionals who value privacy, flexibility, and control over their data",
+      "url": "https://easypeasycv.com/",
+      "category": "writing",
+      "tags": ["cv", "ats", "resume-builder"],
+      "github": "https://github.com/goncalojbsousa/EasyPeasyCV",
+      "license": "MIT",
+      "stars": 18,
+      "featured": false
+    },
+    {
+      "id": "online-maven-download-tool",
+      "name": "Online Maven Download Tool",
+      "description": "Download Maven JAR dependencies and transitive dependencies as ZIP",
+      "url": "https://maven-tools.mohants.com/",
+      "category": "development",
+      "tags": ["maven", "jar"],
+      "github": "https://github.com/pmg1991/maven-tools",
+      "license": "MIT",
+      "stars": 3,
+      "featured": false
+    },
+    {
+      "id": "protegemidni",
+      "name": "ProtegeMiDNI",
+      "description": "Redact the non essential info from the spanish National Identification Document",
+      "url": "https://protegemidni.es",
+      "category": "privacy",
+      "tags": ["redact", "document"],
+      "github": "https://github.com/AlfonsoML/proteccionDNI/",
+      "license": "GPL-3.0",
+      "stars": 51,
+      "featured": false
+    },
+    {
+      "id": "stirling-pdf",
+      "name": "Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "url": "https://stirling.com/app",
+      "category": "productivity",
+      "tags": ["pdf", "reader", "ocr", "edit"],
+      "github": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "license": "MIT",
+      "stars": 80900,
+      "featured": false
+    },
+    {
+      "id": "opencode-config-builder",
+      "name": "OpenCode Config Builder",
+      "description": "Configuration builder/editor for opencode.",
+      "url": "https://openconfig.mikescave.us",
+      "category": "development",
+      "tags": ["config", "ai", "opencode"],
+      "github": "https://github.com/mikecase/opencode-config-builder",
+      "license": "?",
+      "stars": 1,
+      "featured": false
+    },
+    {
+      "id": "osiris",
+      "name": "OSIRIS",
+      "description": "Open Source Palantir Alternative",
+      "url": "https://www.osirisai.live/",
+      "category": "data",
+      "tags": ["OSINT", "CCTV", "airplanes", "satellites"],
+      "github": "https://github.com/simplifaisoul/osiris",
+      "license": "MIT",
+      "stars": 5400,
+      "featured": false
+    },
+    {
+      "id": "niolesk",
+      "name": "Niolesk",
+      "description": "Edit diagrams from textual descriptions!",
+      "url": "niolesk.top",
+      "category": "development",
+      "tags": ["diagram", "uml", "draw"],
+      "github": "https://github.com/webgiss/niolesk/",
+      "license": "MIT",
+      "stars": 113,
+      "featured": false
     }
   ]
 }
