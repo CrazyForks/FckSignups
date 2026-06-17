@@ -1,4 +1,5 @@
-from addTool import getArrayInput, loadJSONFile, updateJSONFile
+from addTool import getArrayInput, getInput, loadJSONFile, slugify, updateJSONFile
+from githubBridge import GitHubRepoBridge
 
 # GLOBAL CONSTANTS
 JSON_PATH = "../tools.json"
@@ -15,13 +16,54 @@ def validate(fields):
         raise
 
 
+def createToolDict(fields):
+    repoBridge = GitHubRepoBridge(github_repo_link=fields[4])
+
+    new_tool_json = {
+        "id": slugify(fields[0]),
+        "name": fields[0],
+        "description": "",
+        "url": fields[2],
+        "category": "",
+        "tags": [],
+        "github": repoBridge.getURL(),
+        "license": repoBridge.getLicense(),
+        "stars": repoBridge.getStars(),
+        "featured": False,
+    }
+
+    new_tool_json["category"] = getInput("Category: ")
+    new_tool_json["tags"] = getArrayInput("Tags (comma separated): ")
+    new_tool_json["description"] = getInput("Description: ")
+
+    return new_tool_json
+
+
+def printAllCategories(json_file_data):
+    for category in json_file_data["categories"]:
+        print(category["id"], end=", ")
+    print()
+
+
 def main():
     automation_input = input("Automation string: ")
     fields = automation_input.split(";;")
 
     validate(fields)
 
-    tags = getArrayInput()
+    json_file_data = loadJSONFile()
+
+    printAllCategories(json_file_data)
+
+    new_tool_json = createToolDict(fields)
+
+    # Add tool to 'JSON'.
+    json_file_data["tools"].append(new_tool_json)
+
+    print("Adding...")
+    print(json_file_data["tools"][-1])
+
+    updateJSONFile(json_file_data)
 
 
 if __name__ == "__main__":
