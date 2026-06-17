@@ -1147,6 +1147,78 @@
       "license": "GPL-3.0",
       "stars": 39360,
       "featured": false
+    },
+    {
+      "id": "flowchartfun",
+      "name": "flowchart.fun",
+      "description": "Easily generate flowcharts and diagrams from text",
+      "url": "https://flowchart.fun/",
+      "category": "productivity",
+      "tags": ["flowchart", "diagram"],
+      "github": "https://github.com/tone-row/flowchart-fun",
+      "license": "MIT",
+      "stars": 3355,
+      "featured": false
+    },
+    {
+      "id": "ffmpegwasm",
+      "name": "ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "url": "https://ffmpegwasm.netlify.app/playground",
+      "category": "development",
+      "tags": ["ffmpeg", "video"],
+      "github": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "license": "MIT",
+      "stars": 17606,
+      "featured": false
+    },
+    {
+      "id": "koodo-reader",
+      "name": "Koodo Reader",
+      "description": "A modern ebook manager and reader",
+      "url": "https://web.koodoreader.com/",
+      "category": "writing",
+      "tags": ["ereader", "epub", "reader"],
+      "github": "https://github.com/koodo-reader/koodo-reader",
+      "license": "AGPL-3.0",
+      "stars": 27228,
+      "featured": false
+    },
+    {
+      "id": "hoppscotch",
+      "name": "hoppscotch",
+      "description": "Open-Source API Development Ecosystem. Alternative to Postman, Insomnia",
+      "url": "https://hoppscotch.io/",
+      "category": "development",
+      "tags": ["postman", "api", "test"],
+      "github": "https://github.com/hoppscotch/hoppscotch",
+      "license": "MIT",
+      "stars": 79564,
+      "featured": false
+    },
+    {
+      "id": "json-crack",
+      "name": "JSON Crack",
+      "description": "visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs",
+      "url": "https://jsoncrack.com/",
+      "category": "development",
+      "tags": ["json", "diagram", "visualize"],
+      "github": "https://github.com/AykutSarac/jsoncrack.com",
+      "license": "Apache-2.0",
+      "stars": 44135,
+      "featured": false
+    },
+    {
+      "id": "cobalt",
+      "name": "Cobalt",
+      "description": "media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.",
+      "url": "https://cobalt.tools/",
+      "category": "media",
+      "tags": ["media", "download", "file"],
+      "github": "https://github.com/imputnet/cobalt",
+      "license": "AGPL-3.0",
+      "stars": 40921,
+      "featured": false
     }
   ]
 }
