@@ -1,7 +1,9 @@
 # FckSignups
 
-> **Open Source Tools. Zero Bullsh*t.**
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/)
 
+> **Open Source Tools. Zero Bullsh*t.**
 A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.
 
 ---
