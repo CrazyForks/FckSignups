@@ -1662,6 +1662,66 @@
       "license": "AGPL-3.0",
       "stars": 90,
       "featured": false
+    },
+    {
+      "id": "lucide",
+      "name": "Lucide",
+      "description": "Beautiful & consistent icon toolkit made by the community",
+      "url": "https://lucide.dev/",
+      "category": "design",
+      "tags": ["svg", "icons", "library"],
+      "github": "https://github.com/lucide-icons/lucide",
+      "license": "NOASSERTION",
+      "stars": 23132,
+      "featured": false
+    },
+    {
+      "id": "lookscanned",
+      "name": "lookscanned",
+      "description": "Turn PDFs and documents into realistic scanned copies, add watermarks, stamps and metadata in a few clicks, with all processing done locally for maximum privacy.",
+      "url": "https://lookscanned.io",
+      "category": "writing",
+      "tags": ["pdf", "documents", "scan"],
+      "github": "https://github.com/lookscanned/lookscanned.io",
+      "license": "MIT",
+      "stars": 3539,
+      "featured": false
+    },
+    {
+      "id": "planar",
+      "name": "Planar",
+      "description": "A client-side web utility to scale, crop, and tile images onto sheets of paper for printing at exact real-world dimensions.",
+      "url": "https://planar.masn.studio",
+      "category": "design",
+      "tags": ["printing", "papercraft", "tiling"],
+      "github": "https://github.com/Mason363/Planar",
+      "license": "MIT",
+      "stars": 1,
+      "featured": false
+    },
+    {
+      "id": "gistssh",
+      "name": "gists.sh",
+      "description": "GitHub Gists are the fastest way to share code, notes, and snippets. But they look terrible. This fixes that.",
+      "url": "https://gists.sh/",
+      "category": "development",
+      "tags": ["viewer"],
+      "github": "https://github.com/linuz90/gists.sh",
+      "license": "",
+      "stars": 79,
+      "featured": false
+    },
+    {
+      "id": "compress",
+      "name": "Compress",
+      "description": "Say goodbye to bulky files! Crush video sizes by 90% with no quality loss, even offline",
+      "url": "https://videocompress.prolab.sh/",
+      "category": "media",
+      "tags": ["video", "compression", "video-compression"],
+      "github": "https://github.com/pranavp10/video-compress",
+      "license": "MIT",
+      "stars": 352,
+      "featured": false
     }
   ]
 }
