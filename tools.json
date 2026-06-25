@@ -65,7 +65,7 @@
       "tags": ["whiteboard", "diagrams", "sketch", "collaboration"],
       "github": "https://github.com/excalidraw/excalidraw",
       "license": "MIT",
-      "stars": 125647,
+      "stars": 126178,
       "featured": true
     },
     {
@@ -77,7 +77,7 @@
       "tags": ["documents", "collaboration", "encrypted", "office"],
       "github": "https://github.com/cryptpad/cryptpad",
       "license": "AGPL-3.0",
-      "stars": 7738,
+      "stars": 7746,
       "featured": true
     },
     {
@@ -89,7 +89,7 @@
       "tags": ["spreadsheet", "database", "tables", "collaboration"],
       "github": "https://github.com/gristlabs/grist-core",
       "license": "Apache-2.0",
-      "stars": 11165,
+      "stars": 11188,
       "featured": true
     },
     {
@@ -101,7 +101,7 @@
       "tags": ["sqlite", "database", "query", "analytics"],
       "github": "https://github.com/simonw/datasette-lite",
       "license": "Apache-2.0",
-      "stars": 404,
+      "stars": 405,
       "featured": false
     },
     {
@@ -113,7 +113,7 @@
       "tags": ["charts", "visualization", "graphs", "svg"],
       "github": "https://github.com/rawgraphs/rawgraphs-app",
       "license": "Apache-2.0",
-      "stars": 8975,
+      "stars": 9003,
       "featured": false
     },
     {
@@ -125,7 +125,7 @@
       "tags": ["database", "erd", "sql", "schema"],
       "github": "https://github.com/drawdb-io/drawdb",
       "license": "AGPL-3.0",
-      "stars": 37405,
+      "stars": 37442,
       "featured": true
     },
     {
@@ -137,7 +137,7 @@
       "tags": ["vector", "graphics", "editor", "design"],
       "github": "https://github.com/GraphiteEditor/Graphite",
       "license": "Apache-2.0",
-      "stars": 26312,
+      "stars": 26396,
       "featured": true
     },
     {
@@ -149,7 +149,7 @@
       "tags": ["diagrams", "markdown", "flowcharts", "visualization"],
       "github": "https://github.com/mermaid-js/mermaid-live-editor",
       "license": "MIT",
-      "stars": 6614,
+      "stars": 6625,
       "featured": false
     },
     {
@@ -161,7 +161,7 @@
       "tags": ["privacy", "security", "hardening", "automation"],
       "github": "https://github.com/undergroundwires/privacy.sexy",
       "license": "GPL-3.0",
-      "stars": 5601,
+      "stars": 5615,
       "featured": true
     },
     {
@@ -173,7 +173,7 @@
       "tags": ["video", "editor", "timeline", "media"],
       "github": "https://github.com/OpenCut-app/OpenCut",
       "license": "MIT",
-      "stars": 57908,
+      "stars": 59689,
       "featured": false
     },
     {
@@ -185,7 +185,7 @@
       "tags": ["svg", "vector", "graphics", "editor"],
       "github": "https://github.com/SVG-Edit/svgedit",
       "license": "MIT",
-      "stars": 7684,
+      "stars": 7693,
       "featured": false
     },
     {
@@ -197,7 +197,7 @@
       "tags": ["svg", "drawing", "vector", "editor"],
       "github": "https://github.com/methodofaction/Method-Draw",
       "license": "MIT",
-      "stars": 2995,
+      "stars": 3000,
       "featured": false
     },
     {
@@ -209,7 +209,7 @@
       "tags": ["pixel-art", "sprites", "animation", "game-dev"],
       "github": "https://github.com/piskelapp/piskel",
       "license": "Apache-2.0",
-      "stars": 12570,
+      "stars": 12587,
       "featured": false
     },
     {
@@ -233,7 +233,7 @@
       "tags": ["encoding", "encryption", "converter", "crypto"],
       "github": "https://github.com/cryptii/cryptii",
       "license": "MIT",
-      "stars": 1491,
+      "stars": 1490,
       "featured": false
     },
     {
@@ -245,7 +245,7 @@
       "tags": ["markdown", "editor", "preview", "documentation"],
       "github": "https://github.com/tanabe/markdown-live-preview",
       "license": "MIT",
-      "stars": 862,
+      "stars": 872,
       "featured": false
     },
     {
@@ -257,7 +257,7 @@
       "tags": ["spreadsheet", "collaboration", "tables", "office"],
       "github": "https://github.com/audreyt/ethercalc",
       "license": "CPAL-1.0",
-      "stars": 3030,
+      "stars": 3032,
       "featured": false
     },
     {
@@ -269,7 +269,7 @@
       "tags": ["markdown", "editor", "preview", "export"],
       "github": "https://github.com/joemccann/dillinger",
       "license": "MIT",
-      "stars": 8257,
+      "stars": 8256,
       "featured": false
     },
     {
@@ -281,7 +281,7 @@
       "tags": ["markdown", "offline", "editor", "sync"],
       "github": "https://github.com/benweet/stackedit",
       "license": "Apache-2.0",
-      "stars": 23003,
+      "stars": 23006,
       "featured": true
     },
     {
@@ -293,7 +293,7 @@
       "tags": ["resume", "cv", "builder", "career"],
       "github": "https://github.com/resume-nation/resume-nation.github.io",
       "license": "MIT",
-      "stars": 150,
+      "stars": 151,
       "featured": false
     },
     {
@@ -305,7 +305,7 @@
       "tags": ["javascript", "sandbox", "frontend", "testing"],
       "github": "https://github.com/jsbin/jsbin",
       "license": "MIT",
-      "stars": 4422,
+      "stars": 4421,
       "featured": false
     },
     {
@@ -353,7 +353,7 @@
       "tags": ["notes", "pwa", "offline", "writing"],
       "github": "https://github.com/amitmerchant1990/notepad",
       "license": "MIT",
-      "stars": 368,
+      "stars": 369,
       "featured": false
     },
     {
@@ -365,7 +365,7 @@
       "tags": ["paint", "drawing", "retro", "editor"],
       "github": "https://github.com/1j01/jspaint",
       "license": "MIT",
-      "stars": 7797,
+      "stars": 7805,
       "featured": true
     },
     {
@@ -377,7 +377,7 @@
       "tags": ["pixel-art", "animation", "sprites", "game-dev"],
       "github": "https://github.com/rgab1508/PixelCraft",
       "license": "MIT",
-      "stars": 1484,
+      "stars": 1486,
       "featured": false
     },
     {
@@ -389,7 +389,7 @@
       "tags": ["file", "transfer", "p2p", "LAN", "WAN"],
       "github": "https://github.com/schlagmichdoch/pairdrop",
       "license": "GPL-3.0",
-      "stars": 10658,
+      "stars": 10688,
       "featured": true
     },
     {
@@ -401,7 +401,7 @@
       "tags": ["file", "transfer", "p2p", "LAN"],
       "github": "https://github.com/localsend/web",
       "license": "Apache-2.0",
-      "stars": 144,
+      "stars": 146,
       "featured": true
     },
     {
@@ -413,7 +413,7 @@
       "tags": ["llm", "ai", "chat"],
       "github": "https://github.com/mlc-ai/web-llm",
       "license": "Apache-2.0",
-      "stars": 18226,
+      "stars": 18270,
       "featured": true
     },
     {
@@ -425,7 +425,7 @@
       "tags": ["file", "transfer", "p2p"],
       "github": "https://github.com/mat-sz/filedrop",
       "license": "BSD-3-Clause-Clear",
-      "stars": 947,
+      "stars": 948,
       "featured": false
     },
     {
@@ -449,7 +449,7 @@
       "tags": ["documents", "notes"],
       "github": "https://github.com/fileverse/fileverse-ddoc",
       "license": "AGPL-3.0",
-      "stars": 296,
+      "stars": 301,
       "featured": false
     },
     {
@@ -473,7 +473,7 @@
       "tags": ["diagrams", "editor"],
       "github": "https://github.com/jgraph/drawio",
       "license": "Apache-2.0",
-      "stars": 6209,
+      "stars": 6355,
       "featured": false
     },
     {
@@ -497,7 +497,7 @@
       "tags": ["encode", "decode", "hash", "data-analytics"],
       "github": "https://github.com/gchq/CyberChef",
       "license": "Apache-2.0",
-      "stars": 35146,
+      "stars": 35199,
       "featured": false
     },
     {
@@ -509,7 +509,7 @@
       "tags": ["maps", "routing", "openstreetmap", "navigation"],
       "github": "https://github.com/nrenner/brouter-web",
       "license": "MIT",
-      "stars": 487,
+      "stars": 488,
       "featured": false
     },
     {
@@ -521,7 +521,7 @@
       "tags": ["kicad", "pcb", "schematics", "electronics"],
       "github": "https://github.com/theacodes/kicanvas",
       "license": "MIT",
-      "stars": 1085,
+      "stars": 1087,
       "featured": false
     },
     {
@@ -533,7 +533,7 @@
       "tags": ["circuit", "simulator", "electronics", "schematics"],
       "github": "https://github.com/pfalstad/circuitjs1",
       "license": "GPL-2.0",
-      "stars": 2278,
+      "stars": 2281,
       "featured": false
     },
     {
@@ -551,7 +551,7 @@
       ],
       "github": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "license": "MIT",
-      "stars": 48562,
+      "stars": 48589,
       "featured": false
     },
     {
@@ -563,7 +563,7 @@
       "tags": ["media", "video", "compression"],
       "github": "https://github.com/pranavp10/video-compress",
       "license": "MIT",
-      "stars": 351,
+      "stars": 352,
       "featured": false
     },
     {
@@ -575,7 +575,7 @@
       "tags": ["media", "subtitle"],
       "github": "https://github.com/SubtitleEdit/subtitleedit",
       "license": "MIT",
-      "stars": 13210,
+      "stars": 13278,
       "featured": false
     },
     {
@@ -587,7 +587,7 @@
       "tags": ["pixel-art", "canvas", "draw"],
       "github": "https://github.com/Orama-Interactive/Pixelorama",
       "license": "MIT",
-      "stars": 9755,
+      "stars": 9780,
       "featured": false
     },
     {
@@ -611,7 +611,7 @@
       "tags": ["music", "beat", "rythm"],
       "github": "https://github.com/mxfng/drumhaus",
       "license": "CC BY-NC-SA 4.0",
-      "stars": 146,
+      "stars": 147,
       "featured": false
     },
     {
@@ -623,7 +623,7 @@
       "tags": ["file-conversion", "file", "convert"],
       "github": "https://github.com/VERT-sh/VERT",
       "license": "AGPL-3.0",
-      "stars": 15161,
+      "stars": 15184,
       "featured": false
     },
     {
@@ -635,7 +635,7 @@
       "tags": ["svg", "editor"],
       "github": "https://github.com/MewPurPur/GodSVG",
       "license": "MIT",
-      "stars": 2537,
+      "stars": 2542,
       "featured": false
     },
     {
@@ -647,7 +647,7 @@
       "tags": ["bill-splitting", "money", "expense"],
       "github": "https://github.com/spliit-app/spliit",
       "license": "MIT",
-      "stars": 2770,
+      "stars": 2783,
       "featured": false
     },
     {
@@ -659,7 +659,7 @@
       "tags": ["pdf", "pdf-tools"],
       "github": "https://github.com/potatameister/PaperKnife",
       "license": "AGPL-3.0",
-      "stars": 1262,
+      "stars": 1272,
       "featured": false
     },
     {
@@ -671,7 +671,7 @@
       "tags": ["image", "compression", "picture"],
       "github": "https://github.com/GoogleChromeLabs/squoosh/",
       "license": "Apache-2.0",
-      "stars": 25389,
+      "stars": 25400,
       "featured": false
     },
     {
@@ -683,7 +683,7 @@
       "tags": ["file-sharing", "file", "share"],
       "github": "https://github.com/stophecom/sharrr-svelte",
       "license": "MIT",
-      "stars": 164,
+      "stars": 165,
       "featured": false
     },
     {
@@ -695,7 +695,7 @@
       "tags": ["paste", "text", "share"],
       "github": "https://github.com/ente-io/ente",
       "license": "AGPL-3.0",
-      "stars": 27223,
+      "stars": 27317,
       "featured": false
     },
     {
@@ -707,7 +707,7 @@
       "tags": ["notes", "note-taking", "sketch"],
       "github": "https://github.com/LinwoodDev/Butterfly",
       "license": "AGPL-3.0",
-      "stars": 1883,
+      "stars": 1890,
       "featured": false
     },
     {
@@ -743,7 +743,7 @@
       "tags": ["video", "editor", "timeline"],
       "github": "https://github.com/omni-media/omniclip",
       "license": "MIT",
-      "stars": 1421,
+      "stars": 1423,
       "featured": false
     },
     {
@@ -755,7 +755,7 @@
       "tags": ["ascii-art", "real-time", "camera"],
       "github": "https://github.com/pshycodr/phosphor-cam",
       "license": "MIT",
-      "stars": 94,
+      "stars": 93,
       "featured": false
     },
     {
@@ -803,7 +803,7 @@
       "tags": ["pdf", "reader", "ocr", "edit"],
       "github": "https://github.com/Stirling-Tools/Stirling-PDF",
       "license": "MIT",
-      "stars": 81341,
+      "stars": 84263,
       "featured": false
     },
     {
@@ -827,7 +827,7 @@
       "tags": ["OSINT", "CCTV", "airplanes", "satellites"],
       "github": "https://github.com/simplifaisoul/osiris",
       "license": "MIT",
-      "stars": 5789,
+      "stars": 6085,
       "featured": false
     },
     {
@@ -851,7 +851,7 @@
       "tags": ["project-management", "agile", "scrum"],
       "github": "https://github.com/vijeeshr/quickretro",
       "license": "AGPL-3.0",
-      "stars": 34,
+      "stars": 38,
       "featured": false
     },
     {
@@ -875,7 +875,7 @@
       "tags": ["notes", "file-sharing", "files"],
       "github": "https://github.com/CorentinTh/enclosed",
       "license": "Apache-2.0",
-      "stars": 2021,
+      "stars": 2023,
       "featured": false
     },
     {
@@ -887,7 +887,7 @@
       "tags": ["image", "video", "size"],
       "github": "https://github.com/qsniyg/maxurl",
       "license": "Apache-2.0",
-      "stars": 1555,
+      "stars": 1561,
       "featured": false
     },
     {
@@ -899,7 +899,7 @@
       "tags": ["qr-code", "recovery", "analysis"],
       "github": "https://github.com/Merricx/qrazybox",
       "license": "MIT",
-      "stars": 521,
+      "stars": 518,
       "featured": false
     },
     {
@@ -911,7 +911,7 @@
       "tags": ["3d", "svg", "design", "model"],
       "github": "https://github.com/lakshaybhushan/vecto3d",
       "license": "MIT",
-      "stars": 1403,
+      "stars": 1405,
       "featured": false
     },
     {
@@ -935,7 +935,7 @@
       "tags": ["design", "png", "svg", "logos", "icons"],
       "github": "https://github.com/homarr-labs/dashboard-icons",
       "license": "Apache-2.0",
-      "stars": 8321,
+      "stars": 8375,
       "featured": false
     },
     {
@@ -947,7 +947,7 @@
       "tags": ["ascii", "algorithm", "dithering", "svg"],
       "github": "https://github.com/Shpigford/studio",
       "license": "MIT",
-      "stars": 141,
+      "stars": 142,
       "featured": false
     },
     {
@@ -971,7 +971,7 @@
       "tags": ["osint", "news", "monitor"],
       "github": "https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general",
       "license": "AGPL-3.0-only",
-      "stars": 56986,
+      "stars": 59734,
       "featured": false
     },
     {
@@ -995,7 +995,7 @@
       "tags": ["image", "picture", "edit"],
       "github": "https://github.com/everestpipkin/image-scrubber",
       "license": "MIT",
-      "stars": 1000,
+      "stars": 1001,
       "featured": false
     },
     {
@@ -1007,7 +1007,7 @@
       "tags": ["satellite", "space", "visualize"],
       "github": "https://github.com/satvisorcom/satvisor",
       "license": "AGPL-3.0",
-      "stars": 6,
+      "stars": 7,
       "featured": false
     },
     {
@@ -1043,7 +1043,7 @@
       "tags": ["image", "qr", "picture", "list"],
       "github": "https://github.com/1612elphi/delphitools",
       "license": "MIT",
-      "stars": 556,
+      "stars": 575,
       "featured": false
     },
     {
@@ -1067,7 +1067,7 @@
       "tags": ["svg", "editor"],
       "github": "https://github.com/Yqnn/svg-path-editor",
       "license": "Apache-2.0",
-      "stars": 5219,
+      "stars": 5230,
       "featured": false
     },
     {
@@ -1079,7 +1079,7 @@
       "tags": ["3d", "modeler", "editor", "low-poly"],
       "github": "https://github.com/JannisX11/blockbench",
       "license": "GPL-3.0",
-      "stars": 5588,
+      "stars": 5606,
       "featured": false
     },
     {
@@ -1091,7 +1091,7 @@
       "tags": ["audio", "editor"],
       "github": "https://github.com/pkalogiros/AudioMass",
       "license": "MIT",
-      "stars": 2807,
+      "stars": 2829,
       "featured": false
     },
     {
@@ -1103,7 +1103,7 @@
       "tags": ["sql", "playground", "learn"],
       "github": "https://github.com/nalgeon/sqlime",
       "license": "MIT",
-      "stars": 1061,
+      "stars": 1062,
       "featured": false
     },
     {
@@ -1115,7 +1115,7 @@
       "tags": ["meeting", "video-call", "call", "screen-share"],
       "github": "https://github.com/miroslavpejic85/mirotalk",
       "license": "AGPL-3.0",
-      "stars": 4597,
+      "stars": 4605,
       "featured": false
     },
     {
@@ -1127,7 +1127,7 @@
       "tags": ["ast", "visualizer"],
       "github": "https://github.com/fkling/astexplorer",
       "license": "MIT",
-      "stars": 6537,
+      "stars": 6538,
       "featured": false
     },
     {
@@ -1139,7 +1139,7 @@
       "tags": ["tools", "list"],
       "github": "https://github.com/corentinth/it-tools",
       "license": "GPL-3.0",
-      "stars": 39420,
+      "stars": 39518,
       "featured": false
     },
     {
@@ -1151,7 +1151,7 @@
       "tags": ["flowchart", "diagram"],
       "github": "https://github.com/tone-row/flowchart-fun",
       "license": "MIT",
-      "stars": 3356,
+      "stars": 3359,
       "featured": false
     },
     {
@@ -1163,7 +1163,7 @@
       "tags": ["ffmpeg", "video"],
       "github": "https://github.com/ffmpegwasm/ffmpeg.wasm",
       "license": "MIT",
-      "stars": 17614,
+      "stars": 17631,
       "featured": false
     },
     {
@@ -1175,7 +1175,7 @@
       "tags": ["ereader", "epub", "reader"],
       "github": "https://github.com/koodo-reader/koodo-reader",
       "license": "AGPL-3.0",
-      "stars": 27237,
+      "stars": 27291,
       "featured": false
     },
     {
@@ -1187,7 +1187,7 @@
       "tags": ["postman", "api", "test"],
       "github": "https://github.com/hoppscotch/hoppscotch",
       "license": "MIT",
-      "stars": 79579,
+      "stars": 79640,
       "featured": false
     },
     {
@@ -1199,7 +1199,7 @@
       "tags": ["json", "diagram", "visualize"],
       "github": "https://github.com/AykutSarac/jsoncrack.com",
       "license": "Apache-2.0",
-      "stars": 44137,
+      "stars": 44172,
       "featured": false
     },
     {
@@ -1211,7 +1211,7 @@
       "tags": ["media", "download", "file"],
       "github": "https://github.com/imputnet/cobalt",
       "license": "AGPL-3.0",
-      "stars": 40944,
+      "stars": 41219,
       "featured": false
     },
     {
@@ -1223,7 +1223,7 @@
       "tags": ["image", "list", "tools"],
       "github": "https://github.com/mlbrothers/ToolsForImage-OSS",
       "license": "MIT",
-      "stars": 15,
+      "stars": 16,
       "featured": false
     },
     {
@@ -1235,7 +1235,7 @@
       "tags": ["svg", "list", "logos", "icons"],
       "github": "https://github.com/glincker/thesvg",
       "license": "MIT",
-      "stars": 2313,
+      "stars": 2346,
       "featured": false
     },
     {
@@ -1247,7 +1247,7 @@
       "tags": ["map", "art", "poster"],
       "github": "https://github.com/yousifamanuel/terraink",
       "license": "MIT",
-      "stars": 3335,
+      "stars": 3375,
       "featured": false
     },
     {
@@ -1259,7 +1259,7 @@
       "tags": ["file-transfer", "file", "transfer"],
       "github": "https://github.com/hariharjeevan/cheezypizza",
       "license": "BSD 3-Clause",
-      "stars": 104,
+      "stars": 113,
       "featured": false
     },
     {
@@ -1271,7 +1271,7 @@
       "tags": ["editor", "image", "paint"],
       "github": "https://github.com/darkly-art/darkly",
       "license": "AGPL-3.0",
-      "stars": 55,
+      "stars": 56,
       "featured": false
     },
     {
@@ -1307,7 +1307,7 @@
       "tags": ["audio", "editor", "recorder"],
       "github": "https://github.com/ahilss/wavacity",
       "license": "GPL-2.0",
-      "stars": 476,
+      "stars": 477,
       "featured": false
     },
     {
@@ -1331,7 +1331,7 @@
       "tags": ["simulate", "verilog", "schematic"],
       "github": "https://github.com/senolgulgonul/verisim",
       "license": "GPL-2.0",
-      "stars": 14,
+      "stars": 15,
       "featured": false
     },
     {
@@ -1355,7 +1355,7 @@
       "tags": ["pdf", "merge", "edit", "list"],
       "github": "https://github.com/alam00000/bentopdf/",
       "license": "AGPL-3.0",
-      "stars": 13772,
+      "stars": 13874,
       "featured": false
     },
     {
@@ -1367,7 +1367,7 @@
       "tags": ["color", "pallete"],
       "github": "https://github.com/LauraWebdev/shade-studio",
       "license": "MIT",
-      "stars": 0,
+      "stars": 1,
       "featured": false
     },
     {
@@ -1391,7 +1391,7 @@
       "tags": ["pdf", "image", "dev-tools"],
       "github": "https://github.com/Anirudh-Rao-portfolio/ToolsAtZero",
       "license": "NC",
-      "stars": 11,
+      "stars": 13,
       "featured": false
     },
     {
@@ -1403,7 +1403,7 @@
       "tags": ["encode", "decode", "hash", "convert"],
       "github": "https://github.com/emn178/online-tools",
       "license": "?",
-      "stars": 1193,
+      "stars": 1195,
       "featured": false
     },
     {
@@ -1415,7 +1415,7 @@
       "tags": ["file", "convert"],
       "github": "https://github.com/p2r3/convert",
       "license": "GPL-2.0",
-      "stars": 3691,
+      "stars": 3706,
       "featured": false
     },
     {
@@ -1439,7 +1439,7 @@
       "tags": ["3d-printing", "printing"],
       "github": "https://github.com/andymai/gridfinity-layout-tool",
       "license": "AGPL-3.0",
-      "stars": 109,
+      "stars": 112,
       "featured": false
     },
     {
@@ -1487,7 +1487,7 @@
       "tags": ["procedural", "shaders", "background", "generative-art"],
       "github": "https://github.com/enonforetsam/fluid",
       "license": "MIT",
-      "stars": 8,
+      "stars": 20,
       "featured": false
     },
     {
@@ -1499,7 +1499,7 @@
       "tags": ["screenshot-editor", "canvas", "mockup"],
       "github": "https://github.com/KartikLabhshetwar/screenshot-studio",
       "license": "Apache-2.0",
-      "stars": 708,
+      "stars": 714,
       "featured": false
     },
     {
@@ -1511,7 +1511,7 @@
       "tags": ["logo-designer", "icon-generator"],
       "github": "https://github.com/raycast/ray-so",
       "license": "MIT",
-      "stars": 2306,
+      "stars": 2307,
       "featured": false
     },
     {
@@ -1528,7 +1528,7 @@
       ],
       "github": "https://github.com/pastelsky/bundlephobia",
       "license": "MIT",
-      "stars": 9537,
+      "stars": 9538,
       "featured": false
     },
     {
@@ -1552,7 +1552,7 @@
       "tags": ["code", "converter", "syntax", "ast", "transformer"],
       "github": "https://github.com/ritz078/transform",
       "license": "MIT",
-      "stars": 9176,
+      "stars": 9174,
       "featured": false
     },
     {
@@ -1564,7 +1564,7 @@
       "tags": ["cli", "command", "shell"],
       "github": "https://github.com/idank/explainshell",
       "license": "GPL-3.0",
-      "stars": 14086,
+      "stars": 14090,
       "featured": false
     },
     {
@@ -1576,7 +1576,7 @@
       "tags": ["background", "patterns", "gradient"],
       "github": "https://github.com/megh-bari/pattern-craft",
       "license": "MIT",
-      "stars": 3015,
+      "stars": 3017,
       "featured": false
     },
     {
@@ -1648,7 +1648,7 @@
       "tags": ["draw"],
       "github": "https://github.com/bitbof/klecks",
       "license": "MIT",
-      "stars": 360,
+      "stars": 361,
       "featured": false
     },
     {
@@ -1672,7 +1672,7 @@
       "tags": ["svg", "icons", "library"],
       "github": "https://github.com/lucide-icons/lucide",
       "license": "NOASSERTION",
-      "stars": 23132,
+      "stars": 23144,
       "featured": false
     },
     {
@@ -1684,7 +1684,7 @@
       "tags": ["pdf", "documents", "scan"],
       "github": "https://github.com/lookscanned/lookscanned.io",
       "license": "MIT",
-      "stars": 3539,
+      "stars": 3540,
       "featured": false
     },
     {
@@ -1732,7 +1732,7 @@
       "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
       "github": "https://github.com/simple-icons/simple-icons",
       "license": "CC0-1.0",
-      "stars": 25272,
+      "stars": 25274,
       "featured": false
     },
     {
@@ -1744,7 +1744,7 @@
       "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
       "github": "https://github.com/phosphor-icons/homepage/tree/master",
       "license": "MIT",
-      "stars": 6919,
+      "stars": 6921,
       "featured": false
     },
     {
@@ -1816,7 +1816,7 @@
       "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
       "github": "https://github.com/tabler/tabler-icons",
       "license": "MIT",
-      "stars": 20991,
+      "stars": 20993,
       "featured": false
     }
   ]
