@@ -1854,6 +1854,78 @@
       "license": "MIT",
       "stars": 187000,
       "featured": false
+    },
+    {
+      "id": "scratch-tabs",
+      "name": "Scratch Tabs",
+      "description": "local-first developer workspace for exploring, transforming, and validating text/data formats",
+      "url": "https://app.scratchtabs.com/",
+      "category": "development",
+      "tags": ["dev-toolkit", "tools-list"],
+      "github": "https://github.com/spectra-g/scratch-tabs",
+      "license": "MIT",
+      "stars": 3,
+      "featured": false
+    },
+    {
+      "id": "universal-résumé-template",
+      "name": "Universal Résumé Template",
+      "description": "Minimal and formal résumé (CV) website template for print, mobile, and desktop",
+      "url": "https://universalresume.app/?s=g",
+      "category": "writing",
+      "tags": ["cv-builder", "resume-builder"],
+      "github": "https://github.com/WebPraktikos/universal-resume",
+      "license": "CC BY-NC-SA 1.0",
+      "stars": 1790,
+      "featured": false
+    },
+    {
+      "id": "qrcodeshow",
+      "name": "QrCodeShow",
+      "description": "Generate QR code easily",
+      "url": "https://qrcode.show/",
+      "category": "utilities",
+      "tags": ["qr-code", "qr-generator"],
+      "github": "https://github.com/sayanarijit/qrcode.show",
+      "license": "AGPL-3.0",
+      "stars": 615,
+      "featured": false
+    },
+    {
+      "id": "selfh-st-icons",
+      "name": "selfh.st Icons",
+      "description": "Dashboard Icons provided by selfh.st",
+      "url": "https://selfh.st/icons/",
+      "category": "development",
+      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "github": "https://github.com/selfhst/icons",
+      "license": "CC-BY-4.0",
+      "stars": 909,
+      "featured": false
+    },
+    {
+      "id": "tldraw",
+      "name": "tldraw",
+      "description": "A simple drawing/whiteboarding tool",
+      "url": "https://www.tldraw.com/",
+      "category": "design",
+      "tags": ["whiteboard", "draw"],
+      "github": "https://github.com/tldraw/tldraw",
+      "license": "NC",
+      "stars": 48385,
+      "featured": false
+    },
+    {
+      "id": "carbon",
+      "name": "carbon",
+      "description": "Create and share beautiful images of your source code",
+      "url": "https://carbon.now.sh/",
+      "category": "development",
+      "tags": ["code-picture", "code-image"],
+      "github": "https://github.com/carbon-app/carbon",
+      "license": "MIT",
+      "stars": 36038,
+      "featured": false
     }
   ]
 }
