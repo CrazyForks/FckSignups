@@ -2015,6 +2015,78 @@
       "license": "MIT",
       "stars": 3840,
       "featured": false
+    },
+    {
+      "id": "goatpad",
+      "name": "GoatPad",
+      "description": "A notepad for the web written in Flutter",
+      "url": "https://goatpad.drexfall.com/",
+      "category": "writing",
+      "tags": ["note-taking", "notes", "write"],
+      "github": "https://github.com/drexfall/goatpad",
+      "license": "CC BY-NC-SA 4.0",
+      "stars": 0,
+      "featured": false
+    },
+    {
+      "id": "oscilloscope-online-v2",
+      "name": "Oscilloscope Online V2",
+      "description": "Web Serial Plotter with as much customization as possible",
+      "url": "https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html",
+      "category": "utilities",
+      "tags": ["oscilloscope", "serial", "plotter"],
+      "github": "https://github.com/MUmarShahbaz/Oscilloscope-Online-V2",
+      "license": "?",
+      "stars": 13,
+      "featured": false
+    },
+    {
+      "id": "regexr",
+      "name": "RegExr",
+      "description": "HTML/JS based tool for creating, testing, and learning about Regular Expressions",
+      "url": "https://regexr.com/",
+      "category": "development",
+      "tags": ["regex", "pattern-matching"],
+      "github": "https://github.com/gskinner/regexr/",
+      "license": "GPL-3.0",
+      "stars": 10345,
+      "featured": false
+    },
+    {
+      "id": "webtorio",
+      "name": "Webtor.io",
+      "description": "seamless torrent streaming and file sharing",
+      "url": "https://webtor.io/",
+      "category": "utilities",
+      "tags": ["torrent", "download", "upload", "stream"],
+      "github": "https://github.com/webtor-io/web-ui",
+      "license": "MIT",
+      "stars": 61,
+      "featured": false
+    },
+    {
+      "id": "quickrefme",
+      "name": "QuickRef.ME",
+      "description": "Share quick reference cheat sheet for developers",
+      "url": "https://quickref.me/",
+      "category": "development",
+      "tags": ["cheat-sheets", "dev-docs", "syntax-reference", "code-snippets"],
+      "github": "https://github.com/Fechin/reference",
+      "license": "GPL-3.0",
+      "stars": 10639,
+      "featured": false
+    },
+    {
+      "id": "zkdrop",
+      "name": "zkdrop",
+      "description": "Secure, temporary, and minimal file sharing with zero-knowledge encryption",
+      "url": "https://zkdrop.org",
+      "category": "utilities",
+      "tags": ["file-sharing", "file-transfer"],
+      "github": "https://github.com/zedxihan/zkdrop",
+      "license": "AGPL-3.0",
+      "stars": 2,
+      "featured": false
     }
   ]
 }
