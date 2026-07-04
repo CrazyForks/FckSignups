@@ -3,7 +3,8 @@ export const MODAL_CONFIGS: ModalConfig[] = [
   {
     modalId: "submit-tool",
     modalTitle: "TOOL",
-    submitURL: "/api/submit",
+    submitURL:
+      "https://fcksignups-submit.abdullahalkafajy.workers.dev/submit-tool",
     pages: [
       {
         title: "Basic Info",
@@ -65,14 +66,15 @@ export const MODAL_CONFIGS: ModalConfig[] = [
   {
     modalId: "report-tool",
     modalTitle: "REPORT",
-    submitURL: "/api/submit",
+    submitURL:
+      "https://fcksignups-submit.abdullahalkafajy.workers.dev/report-tool",
     pages: [
       {
         title: "Basic Info",
         fields: [
           {
             type: "text",
-            name: "tool-id",
+            name: "toolId",
             label: "TOOL ID",
             placeholder: "e.g. excalidraw",
             required: true,
@@ -91,14 +93,15 @@ export const MODAL_CONFIGS: ModalConfig[] = [
   {
     modalId: "suggest-tool",
     modalTitle: "SUGGESTION",
-    submitURL: "#",
+    submitURL:
+      "https://fcksignups-submit.abdullahalkafajy.workers.dev/suggest-tool",
     pages: [
       {
         title: "Basic Info",
         fields: [
           {
             label: "Your tool idea:",
-            name: "tool-idea",
+            name: "toolIdea",
             required: true,
             type: "textarea",
             placeholder: "I'd like a tool that...",
