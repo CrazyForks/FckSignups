@@ -56,6 +56,8 @@ export const MODAL_CONFIGS: ModalConfig[] = [
               utilities: "Utilities",
               data: "Data & Analytics",
               media: "Media",
+              education: "Education",
+              lists: "Lists",
             },
             required: true,
           },
