@@ -2323,6 +2323,66 @@
       "license": "?",
       "stars": 10536,
       "featured": false
+    },
+    {
+      "id": "openreel",
+      "name": "OpenReel",
+      "description": "Open source CapCut alternative",
+      "url": "https://openreel.video/",
+      "category": "media",
+      "tags": ["video-editor", "reel-maker"],
+      "github": "https://github.com/Augani/openreel-video",
+      "license": "MIT",
+      "stars": 3820,
+      "featured": false
+    },
+    {
+      "id": "openvid",
+      "name": "Openvid",
+      "description": "Platform designed to transform raw screen recordings into polished, high-quality demonstration videos",
+      "url": "https://openvid.dev/en",
+      "category": "media",
+      "tags": ["video-editor", "demonstration-maker", "tutorial-maker"],
+      "github": "https://github.com/CristianOlivera1/openvid",
+      "license": "NC",
+      "stars": 1502,
+      "featured": false
+    },
+    {
+      "id": "faviconapi",
+      "name": "FaviconAPI",
+      "description": "Get the highest resolution favicon for any domain or look up a service icon by name.",
+      "url": "https://faviconapi.com",
+      "category": "development",
+      "tags": ["favicon", "favicon-list"],
+      "github": "https://github.com/R0GGER/favicon-api/",
+      "license": "?",
+      "stars": 2,
+      "featured": false
+    },
+    {
+      "id": "qtransfer",
+      "name": "qTransfer",
+      "description": "Easly connects 2 browsers to transfer files",
+      "url": "https://transfer-cv5.pages.dev/",
+      "category": "utilities",
+      "tags": ["file-transfer", "file-share"],
+      "github": "https://github.com/atlanticsupport/quick-transfer",
+      "license": "?",
+      "stars": 0,
+      "featured": false
+    },
+    {
+      "id": "daggerheart-gm-screen",
+      "name": "Daggerheart GM Screen",
+      "description": "Daggerheart GM Screen",
+      "url": "https://jutier.github.io/Daggerheart/",
+      "category": "utilities",
+      "tags": ["gm-ui", "role-play"],
+      "github": "https://github.com/Jutier/Daggerheart",
+      "license": "?",
+      "stars": 8,
+      "featured": false
     }
   ]
 }
