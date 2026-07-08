@@ -4,9 +4,14 @@ import { useModal } from "../hooks/useModal";
 interface HeaderProps {
   toolCount: number;
   categoryCount: number;
+  setSearchQuery: (query: string) => void;
 }
 
-export function Header({ toolCount, categoryCount }: HeaderProps) {
+export function Header({
+  toolCount,
+  categoryCount,
+  setSearchQuery,
+}: HeaderProps) {
   const { showModalWithID } = useModal();
   const [starsCount, setStarsCount] = useState(0);
 
@@ -35,7 +40,10 @@ export function Header({ toolCount, categoryCount }: HeaderProps) {
         </div>
         <div className="header-grid">
           <div className="brand-block">
-            <h1>
+            <h1
+              style={{ cursor: "pointer" }}
+              onClick={() => setSearchQuery("")}
+            >
               <span className="fck glitch" data-text="F*CK">
                 F*CK
               </span>

@@ -33,6 +33,7 @@ export default function App() {
         <Header
           toolCount={tools.length}
           categoryCount={Math.max(0, categories.length - 1)}
+          setSearchQuery={setSearchQuery}
         />
 
         <Controls
