@@ -41,7 +41,10 @@ function makeSelectField(
   fieldValues: ModalFieldValues,
   updateField: (name: string, value: string) => void,
 ): ReactNode {
-  if (typeof field.options === "function") return null;
+  if (typeof field.options === "function")
+    throw new Error(
+      "Select field with options of type async callback isn't supported yet.",
+    );
 
   return (
     <>
