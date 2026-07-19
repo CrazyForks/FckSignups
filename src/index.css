@@ -425,6 +425,18 @@ input[type="search"] {
     transition: all 0.2s;
 }
 
+input[type="search"]::placeholder {
+    transition: color 0.2s;
+}
+
+input[type="search"]:focus::placeholder {
+    color: var(--text);
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+    cursor: pointer;
+}
+
 input[type="text"]:focus {
     border-color: var(--accent);
     box-shadow: 0 0 0 3px rgba(255, 0, 64, 0.1);
