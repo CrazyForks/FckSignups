@@ -1,3 +1,4 @@
+import { ExternalIcon } from "../constants/icons";
 import { useModal } from "../hooks/useModal";
 
 export function Footer() {
@@ -27,7 +28,7 @@ export function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Report an issue
+                Report an issue <ExternalIcon />
               </a>
             </div>
           </div>
