@@ -766,6 +766,10 @@ input[type="text"]::placeholder {
     cursor: pointer;
 }
 
+.tag:active {
+    scale: .99;
+}
+
 .card-footer {
     display: flex;
     justify-content: space-between;
