@@ -511,6 +511,10 @@ input[type="text"]::placeholder {
     display: none;
 }
 
+.cat-btn span:first-of-type {
+    margin-right: 0.3rem;
+}
+
 .cat-btn .count {
     font-size: 0.7rem;
     margin-left: 0.3rem;
