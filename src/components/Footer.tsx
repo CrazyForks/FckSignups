@@ -10,7 +10,7 @@ export function Footer() {
           <div className="footer-col">
             <h3>About</h3>
             <p>
-              FckSignups is a curated directory of tools that respect your time.
+              NoSignups (formerly FckSignups) is a curated directory of tools that respect your time.
               No signups, no spam, no dark patterns.
             </p>
           </div>
@@ -42,7 +42,7 @@ export function Footer() {
         </div>
         <div className="footer-bottom">
           <p>
-            © 2026 FCKSIGNUPS /// CURATED WITH SPITE ///{" "}
+            © 2026 NOSIGNUPS /// CURATED WITH SPITE ///{" "}
             <a
               href="https://github.com/BraveOPotato/FckSignups"
               target="_blank"
