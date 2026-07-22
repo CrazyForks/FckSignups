@@ -47,6 +47,7 @@ export function ToolCard({ tool, category, setSearchQuery }: ToolCardProps) {
       <article
         className={
           "card" +
+          (tool.section === "featured" ? " featured" : "") +
           (tool.notRecommendedReason !== undefined ? " not-recommended" : "") // if there the key exists in the object
         }
         data-highlighted={reportMode}
@@ -71,34 +72,56 @@ export function ToolCard({ tool, category, setSearchQuery }: ToolCardProps) {
               <ExternalIcon />
             </a>
           </div>
-          {tool.featured && <span className="featured-badge">Featured</span>}
-          {tool.notRecommendedReason !== undefined && (
-            <div
-              onClick={(e) => {
-                e.stopPropagation();
-                handleTimedToast();
-              }}
-              title={tool.notRecommendedReason}
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                className="feather feather-alert-circle"
+
+          <div>
+            {tool.section === "featured" && (
+              <span className="featured-badge">Featured</span>
+            )}
+            {tool.section === "editors-pick" && (
+              <span className="editors-badge">Editor's Pick</span>
+            )}
+            {tool.flag === "new" && (
+              <span className="flag-badge flag-new" title="Brand new project">
+                New
+              </span>
+            )}
+            {tool.flag === "abandoned" && (
+              <span
+                className="flag-badge flag-abandoned"
+                title="This project is no longer maintained"
               >
-                <circle cx="12" cy="12" r="10"></circle>
-                <line x1="12" y1="8" x2="12" y2="12"></line>
-                <line x1="12" y1="16" x2="12.01" y2="16"></line>
-              </svg>
-            </div>
-          )}
-        </div>
+                Abandoned
+              </span>
+            )}
+            {tool.notRecommendedReason !== undefined && (
+              <div
+                onClick={(e) => {
+                  e.stopPropagation();
+                  handleTimedToast();
+                }}
+                title={tool.notRecommendedReason}
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  className="feather feather-alert-circle"
+                >
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <line x1="12" y1="8" x2="12" y2="12"></line>
+                  <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                </svg>
+              </div>
+            )}
+          </div>
+
+          </div>
 
         <p className="card-desc">{tool.description}</p>
 

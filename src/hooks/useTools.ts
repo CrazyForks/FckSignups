@@ -6,9 +6,16 @@ import {
 } from "../constants/fallbackData";
 import type { Category, LoadStatus, Tool, ToolsData } from "../types";
 
+export interface ToolSections {
+  featured: Tool[];
+  editorsPicks: Tool[];
+  meetsCriteria: Tool[];
+}
+
 interface UseToolsReturn {
   tools: Tool[];
   filteredTools: Tool[];
+  sections: ToolSections;
   categories: Category[];
   loadStatus: LoadStatus;
   errorMessage: string;
@@ -32,6 +39,7 @@ export function useTools(): UseToolsReturn {
       let data: ToolsData | null = null;
       let error = "";
 
+      console.log(import.meta.env.DEV)
       if (import.meta?.env?.DEV) {
         data = await loadTools(DEV_JSON_URL);
       }
@@ -61,34 +69,52 @@ export function useTools(): UseToolsReturn {
         description: "All tools",
       });
     }
-    setAllTools(data.tools ?? []);
+    // Legacy schema fallback: tools.json fetched from prod may still carry
+    // the old `featured` boolean instead of `section`.
+    const tools = (data.tools ?? []).map((t) => {
+      if (t.section) return t;
+      const legacy = t as Tool & { featured?: boolean };
+      return {
+        ...t,
+        section: legacy.featured ? "featured" : "meets-criteria",
+      } satisfies Tool;
+    });
+    setAllTools(tools);
     setCategories(cats);
     setLoadStatus(!error ? "success" : "error");
   }
 
   const filteredTools = useMemo(() => {
-    const q = searchQuery.toLowerCase().trim();
+    const keywords = tokenize(searchQuery);
     return allTools
-      .filter((t) => {
+      .map((tool) => ({ tool, score: matchScore(tool, keywords) }))
+      .filter(({ tool, score }) => {
         const matchCat =
-          activeCategory === "all" || t.category === activeCategory;
-        const matchSearch =
-          !q ||
-          t.name.toLowerCase().includes(q) ||
-          t.description.toLowerCase().includes(q) ||
-          t.tags.some((tag) => tag.toLowerCase().includes(q));
-        return matchCat && matchSearch;
+          activeCategory === "all" || tool.category === activeCategory;
+        return matchCat && (keywords.length === 0 || score > 0);
       })
-      .sort((a, b) => {
-        if (a.featured && !b.featured) return -1;
-        if (!a.featured && b.featured) return 1;
-        return (b.stars ?? 0) - (a.stars ?? 0);
-      });
+      .sort(
+        (a, b) =>
+          b.score - a.score || (b.tool.stars ?? 0) - (a.tool.stars ?? 0),
+      )
+      .map(({ tool }) => tool);
   }, [allTools, activeCategory, searchQuery]);
+
+  const sections = useMemo<ToolSections>(
+    () => ({
+      featured: filteredTools.filter((t) => t.section === "featured"),
+      editorsPicks: filteredTools.filter((t) => t.section === "editors-pick"),
+      meetsCriteria: filteredTools.filter(
+        (t) => t.section !== "featured" && t.section !== "editors-pick",
+      ),
+    }),
+    [filteredTools],
+  );
 
   return {
     tools: allTools,
     filteredTools,
+    sections,
     categories,
     loadStatus,
     errorMessage,
@@ -97,6 +123,25 @@ export function useTools(): UseToolsReturn {
     setSearchQuery,
     setActiveCategory,
   };
+}
+
+// Split text into lowercase alphanumeric keywords, so "video-editor",
+// "Video Editor" and "video_editor" all yield ["video", "editor"].
+function tokenize(text: string): string[] {
+  return text
+    .toLowerCase()
+    .split(/[^a-z0-9+]+/)
+    .filter(Boolean);
+}
+
+// Number of query keywords found in the tool's name, description, or tags.
+function matchScore(tool: Tool, keywords: string[]): number {
+  if (keywords.length === 0) return 0;
+  const haystack = [tool.name, tool.description, ...tool.tags]
+    .join(" ")
+    .toLowerCase()
+    .replace(/[^a-z0-9+]+/g, " ");
+  return keywords.filter((kw) => haystack.includes(kw)).length;
 }
 
 async function loadTools(JSON_URL: string): Promise<ToolsData | null> {

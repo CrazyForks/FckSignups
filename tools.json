@@ -68,11 +68,17 @@
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
       "url": "https://excalidraw.com",
       "category": "design",
-      "tags": ["whiteboard", "diagrams", "sketch", "collaboration"],
+      "tags": [
+        "whiteboard",
+        "diagrams",
+        "sketch",
+        "collaboration"
+      ],
       "github": "https://github.com/excalidraw/excalidraw",
       "license": "MIT",
       "stars": 127590,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "cryptpad",
@@ -80,11 +86,17 @@
       "description": "Collaborative office suite, end-to-end encrypted and open-source.",
       "url": "https://cryptpad.fr",
       "category": "productivity",
-      "tags": ["documents", "collaboration", "encrypted", "office"],
+      "tags": [
+        "documents",
+        "collaboration",
+        "encrypted",
+        "office"
+      ],
       "github": "https://github.com/cryptpad/cryptpad",
       "license": "AGPL-3.0",
       "stars": 7787,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "grist",
@@ -92,11 +104,17 @@
       "description": "Modern relational spreadsheet. It combines the flexibility of a spreadsheet with the robustness of a database",
       "url": "https://docs.getgrist.com",
       "category": "productivity",
-      "tags": ["spreadsheet", "database", "tables", "collaboration"],
+      "tags": [
+        "spreadsheet",
+        "database",
+        "tables",
+        "collaboration"
+      ],
       "github": "https://github.com/gristlabs/grist-core",
       "license": "Apache-2.0",
       "stars": 11283,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "datasette-lite",
@@ -104,11 +122,17 @@
       "description": "a full server-side Datasette Python web application directly in your browser",
       "url": "https://lite.datasette.io",
       "category": "data",
-      "tags": ["sqlite", "database", "query", "analytics"],
+      "tags": [
+        "sqlite",
+        "database",
+        "query",
+        "analytics"
+      ],
       "github": "https://github.com/simonw/datasette-lite",
       "license": "Apache-2.0",
       "stars": 405,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "rawgraphs",
@@ -116,11 +140,17 @@
       "description": "A web interface to create custom vector-based visualizations on top of RAWGraphs core",
       "url": "https://app.rawgraphs.io",
       "category": "data",
-      "tags": ["charts", "visualization", "graphs", "svg"],
+      "tags": [
+        "charts",
+        "visualization",
+        "graphs",
+        "svg"
+      ],
       "github": "https://github.com/rawgraphs/rawgraphs-app",
       "license": "Apache-2.0",
       "stars": 9015,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "drawdb",
@@ -128,11 +158,17 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator",
       "url": "https://www.drawdb.app",
       "category": "development",
-      "tags": ["database", "erd", "sql", "schema"],
+      "tags": [
+        "database",
+        "erd",
+        "sql",
+        "schema"
+      ],
       "github": "https://github.com/drawdb-io/drawdb",
       "license": "AGPL-3.0",
       "stars": 38099,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "graphite",
@@ -140,11 +176,17 @@
       "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
       "url": "https://editor.graphite.rs",
       "category": "design",
-      "tags": ["vector", "graphics", "editor", "design"],
+      "tags": [
+        "vector",
+        "graphics",
+        "editor",
+        "design"
+      ],
       "github": "https://github.com/GraphiteEditor/Graphite",
       "license": "Apache-2.0",
       "stars": 26562,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "mermaid-live",
@@ -152,11 +194,17 @@
       "description": "Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.",
       "url": "https://mermaid.live",
       "category": "development",
-      "tags": ["diagrams", "markdown", "flowcharts", "visualization"],
+      "tags": [
+        "diagrams",
+        "markdown",
+        "flowcharts",
+        "visualization"
+      ],
       "github": "https://github.com/mermaid-js/mermaid-live-editor",
       "license": "MIT",
       "stars": 6679,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "privacy-sexy",
@@ -164,11 +212,17 @@
       "description": "A tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy",
       "url": "https://privacy.sexy",
       "category": "privacy",
-      "tags": ["privacy", "security", "hardening", "automation"],
+      "tags": [
+        "privacy",
+        "security",
+        "hardening",
+        "automation"
+      ],
       "github": "https://github.com/undergroundwires/privacy.sexy",
       "license": "GPL-3.0",
       "stars": 5823,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "opencut",
@@ -176,11 +230,16 @@
       "description": "The open-source CapCut alternative",
       "url": "https://opencut.app",
       "category": "media",
-      "tags": ["video-editor", "timeline", "media"],
+      "tags": [
+        "video-editor",
+        "timeline",
+        "media"
+      ],
       "github": "https://github.com/OpenCut-app/OpenCut",
       "license": "MIT",
       "stars": 72004,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "svg-edit",
@@ -188,11 +247,17 @@
       "description": "Powerful SVG-Editor for your browser",
       "url": "https://svgedit.netlify.app/index.html",
       "category": "design",
-      "tags": ["svg", "vector", "graphics", "editor"],
+      "tags": [
+        "svg",
+        "vector",
+        "graphics",
+        "editor"
+      ],
       "github": "https://github.com/SVG-Edit/svgedit",
       "license": "MIT",
       "stars": 7715,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "method-draw",
@@ -200,11 +265,17 @@
       "description": "Simple and easy-to-use SVG editor experience",
       "url": "https://editor.method.ac",
       "category": "design",
-      "tags": ["svg", "drawing", "vector", "editor"],
+      "tags": [
+        "svg",
+        "drawing",
+        "vector",
+        "editor"
+      ],
       "github": "https://github.com/methodofaction/Method-Draw",
       "license": "MIT",
       "stars": 2997,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "piskel",
@@ -212,11 +283,17 @@
       "description": "Easy-to-use sprite editor. It can be used to create game sprites, animations, and pixel-art",
       "url": "https://www.piskelapp.com",
       "category": "design",
-      "tags": ["pixel-art", "sprites", "animation", "game-dev"],
+      "tags": [
+        "pixel-art",
+        "sprites",
+        "animation",
+        "game-dev"
+      ],
       "github": "https://github.com/piskelapp/piskel",
       "license": "Apache-2.0",
       "stars": 12636,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "browserpad",
@@ -224,11 +301,17 @@
       "description": "Plain text editor in the browser.",
       "url": "https://browserpad.org",
       "category": "writing",
-      "tags": ["notes", "minimal", "local-storage", "writing"],
+      "tags": [
+        "notes",
+        "minimal",
+        "local-storage",
+        "writing"
+      ],
       "github": "https://github.com/browserpad/browserpad",
       "license": "ISC",
       "stars": 83,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "cryptii",
@@ -236,11 +319,17 @@
       "description": "App for modular conversion, encoding, and encryption",
       "url": "https://cryptii.com",
       "category": "privacy",
-      "tags": ["encoding", "encryption", "converter", "crypto"],
+      "tags": [
+        "encoding",
+        "encryption",
+        "converter",
+        "crypto"
+      ],
       "github": "https://github.com/cryptii/cryptii",
       "license": "MIT",
       "stars": 1491,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "markdown-live-preview",
@@ -248,11 +337,17 @@
       "description": "Markdown editor with live preview",
       "url": "https://markdownlivepreview.com",
       "category": "writing",
-      "tags": ["markdown", "editor", "preview", "documentation"],
+      "tags": [
+        "markdown",
+        "editor",
+        "preview",
+        "documentation"
+      ],
       "github": "https://github.com/tanabe/markdown-live-preview",
       "license": "MIT",
       "stars": 900,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "ethercalc",
@@ -260,11 +355,17 @@
       "description": "Spreadsheet for real-time collaborative editing",
       "url": "https://ethercalc.net/",
       "category": "productivity",
-      "tags": ["spreadsheet", "collaboration", "tables", "office"],
+      "tags": [
+        "spreadsheet",
+        "collaboration",
+        "tables",
+        "office"
+      ],
       "github": "https://github.com/audreyt/ethercalc",
       "license": "CPAL-1.0",
       "stars": 3036,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "dillinger",
@@ -272,11 +373,17 @@
       "description": "\"The last Markdown editor, ever.\"",
       "url": "https://dillinger.io",
       "category": "writing",
-      "tags": ["markdown", "editor", "preview", "export"],
+      "tags": [
+        "markdown",
+        "editor",
+        "preview",
+        "export"
+      ],
       "github": "https://github.com/joemccann/dillinger",
       "license": "MIT",
       "stars": 8262,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "stackedit",
@@ -284,11 +391,17 @@
       "description": "Full-featured markdown editor",
       "url": "https://stackedit.io",
       "category": "writing",
-      "tags": ["markdown", "offline", "editor", "sync"],
+      "tags": [
+        "markdown",
+        "offline",
+        "editor",
+        "sync"
+      ],
       "github": "https://github.com/benweet/stackedit",
       "license": "Apache-2.0",
       "stars": 23026,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "resume-nation",
@@ -296,11 +409,17 @@
       "description": "Progressive resume builder which works offline",
       "url": "https://resume-nation.github.io",
       "category": "productivity",
-      "tags": ["resume", "cv", "builder", "career"],
+      "tags": [
+        "resume",
+        "cv",
+        "builder",
+        "career"
+      ],
       "github": "https://github.com/resume-nation/resume-nation.github.io",
       "license": "MIT",
       "stars": 152,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "js-bin",
@@ -308,11 +427,17 @@
       "description": "Collaborative JavaScript Debugging App",
       "url": "https://jsbin.com",
       "category": "development",
-      "tags": ["javascript", "sandbox", "frontend", "testing"],
+      "tags": [
+        "javascript",
+        "sandbox",
+        "frontend",
+        "testing"
+      ],
       "github": "https://github.com/jsbin/jsbin",
       "license": "MIT",
       "stars": 4421,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "python-tutor",
@@ -320,11 +445,17 @@
       "description": "Visualize code execution step-by-step to better understand programming concepts and debugging.",
       "url": "https://pythontutor.com",
       "category": "development",
-      "tags": ["python", "visualizer", "education", "debugging"],
+      "tags": [
+        "python",
+        "visualizer",
+        "education",
+        "debugging"
+      ],
       "github": "https://github.com/pathrise-eng/pathrise-python-tutor",
       "license": "GPL-3.0",
       "stars": 194,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "dart-pad",
@@ -332,11 +463,17 @@
       "description": "An online Dart editor with support for console, web, and Flutter apps.",
       "url": "https://dartpad.dev",
       "category": "development",
-      "tags": ["dart", "flutter", "playground", "coding"],
+      "tags": [
+        "dart",
+        "flutter",
+        "playground",
+        "coding"
+      ],
       "github": "https://github.com/dart-lang/dart-pad",
       "license": "BSD-3-Clause",
       "stars": 1857,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "pandoc-wasm",
@@ -344,11 +481,17 @@
       "description": "Convert documents without leaving the browser.",
       "url": "https://pandoc.github.io/pandoc-wasm/",
       "category": "utilities",
-      "tags": ["pandoc", "converter", "documents", "formats"],
+      "tags": [
+        "pandoc",
+        "converter",
+        "documents",
+        "formats"
+      ],
       "github": "https://github.com/pandoc/pandoc-wasm",
       "license": "MIT",
       "stars": 13,
-      "featured": false
+      "addedAt": "2026-06-18",
+      "section": "meets-criteria"
     },
     {
       "id": "notepad-pwa",
@@ -356,11 +499,17 @@
       "description": "📒 An offline capable Notepad PWA",
       "url": "https://notepad.js.org",
       "category": "writing",
-      "tags": ["notes", "pwa", "offline", "writing"],
+      "tags": [
+        "notes",
+        "pwa",
+        "offline",
+        "writing"
+      ],
       "github": "https://github.com/amitmerchant1990/notepad",
       "license": "MIT",
       "stars": 370,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "jspaint",
@@ -368,11 +517,17 @@
       "description": "🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras",
       "url": "https://jspaint.app",
       "category": "design",
-      "tags": ["paint", "drawing", "retro", "editor"],
+      "tags": [
+        "paint",
+        "drawing",
+        "retro",
+        "editor"
+      ],
       "github": "https://github.com/1j01/jspaint",
       "license": "MIT",
       "stars": 7824,
-      "featured": true
+      "addedAt": "2026-05-07",
+      "section": "featured"
     },
     {
       "id": "pixel-craft",
@@ -380,11 +535,17 @@
       "description": "A pixel Art & Animation Creation Tool Built using HTML5 Canvas",
       "url": "https://pixelcraft.web.app",
       "category": "design",
-      "tags": ["pixel-art", "animation", "sprites", "game-dev"],
+      "tags": [
+        "pixel-art",
+        "animation",
+        "sprites",
+        "game-dev"
+      ],
       "github": "https://github.com/rgab1508/PixelCraft",
       "license": "MIT",
       "stars": 1496,
-      "featured": false
+      "addedAt": "2026-05-07",
+      "section": "meets-criteria"
     },
     {
       "id": "pairdrop",
@@ -392,11 +553,18 @@
       "description": "Transfer Files Cross-Platform. No Setup, No Signup.",
       "url": "https://pairdrop.net/",
       "category": "utilities",
-      "tags": ["file", "transfer", "p2p", "LAN", "WAN"],
+      "tags": [
+        "file",
+        "transfer",
+        "p2p",
+        "LAN",
+        "WAN"
+      ],
       "github": "https://github.com/schlagmichdoch/pairdrop",
       "license": "GPL-3.0",
       "stars": 10850,
-      "featured": true
+      "addedAt": "2026-06-10",
+      "section": "featured"
     },
     {
       "id": "localsend-web",
@@ -404,11 +572,17 @@
       "description": "An open-source cross-platform alternative to AirDrop, but works in LAN only",
       "url": "https://web.localsend.org/",
       "category": "utilities",
-      "tags": ["file", "transfer", "p2p", "LAN"],
+      "tags": [
+        "file",
+        "transfer",
+        "p2p",
+        "LAN"
+      ],
       "github": "https://github.com/localsend/web",
       "license": "Apache-2.0",
       "stars": 151,
-      "featured": true
+      "addedAt": "2026-06-10",
+      "section": "featured"
     },
     {
       "id": "webllm",
@@ -416,11 +590,16 @@
       "description": "High-performance In-browser LLM Inference Engine",
       "url": "https://webllm.mlc.ai/",
       "category": "productivity",
-      "tags": ["llm", "ai", "chat"],
+      "tags": [
+        "llm",
+        "ai",
+        "chat"
+      ],
       "github": "https://github.com/mlc-ai/web-llm",
       "license": "Apache-2.0",
       "stars": 18370,
-      "featured": true
+      "addedAt": "2026-06-10",
+      "section": "featured"
     },
     {
       "id": "filedrop",
@@ -428,11 +607,16 @@
       "description": "End-to-end encrypted peer-to-peer file transfer and chat in the",
       "url": "https://drop.lol/",
       "category": "utilities",
-      "tags": ["file", "transfer", "p2p"],
+      "tags": [
+        "file",
+        "transfer",
+        "p2p"
+      ],
       "github": "https://github.com/mat-sz/filedrop",
       "license": "BSD-3-Clause-Clear",
       "stars": 952,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "clip-fish",
@@ -440,11 +624,16 @@
       "description": "App for quickly sharing links, text snippets, and files.",
       "url": "https://clip.fish/",
       "category": "utilities",
-      "tags": ["file transfer", "text transfer", "p2p"],
+      "tags": [
+        "file transfer",
+        "text transfer",
+        "p2p"
+      ],
       "github": "https://github.com/clip-fish/web",
       "license": "MIT",
       "stars": 57,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "ddocs",
@@ -452,11 +641,15 @@
       "description": "A privacy-first, end-to-end encrypted alternative to Google Docs for rich document editing.",
       "url": "https://ddocs.new/",
       "category": "writing",
-      "tags": ["documents", "notes"],
+      "tags": [
+        "documents",
+        "notes"
+      ],
       "github": "https://github.com/fileverse/fileverse-ddoc",
       "license": "AGPL-3.0",
       "stars": 330,
-      "featured": false
+      "addedAt": "2026-07-10",
+      "section": "meets-criteria"
     },
     {
       "id": "dsheets",
@@ -464,11 +657,14 @@
       "description": "dsheets.new is alternative to google sheets & excel.",
       "url": "https://dsheets.new/",
       "category": "productivity",
-      "tags": ["spreadsheet"],
+      "tags": [
+        "spreadsheet"
+      ],
       "github": "https://github.com/fileverse/fileverse-dsheet",
       "license": "AGPL-3.0",
       "stars": 72,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "drawio",
@@ -476,11 +672,15 @@
       "description": "A configurable browser-based diagramming and whiteboarding tool for flowcharts, UML, network diagrams, ER diagrams, BPMN, and more.",
       "url": "https://www.drawio.com/",
       "category": "design",
-      "tags": ["diagrams", "editor"],
+      "tags": [
+        "diagrams",
+        "editor"
+      ],
       "github": "https://github.com/jgraph/drawio",
       "license": "Apache-2.0",
       "stars": 6810,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "mr-data-converter",
@@ -488,11 +688,16 @@
       "description": "Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.",
       "url": "https://shancarter.github.io/mr-data-converter/",
       "category": "data",
-      "tags": ["data-conversion", "excel", "csv"],
+      "tags": [
+        "data-conversion",
+        "excel",
+        "csv"
+      ],
       "github": "https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file",
       "license": "MIT",
       "stars": 1956,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "cyberchef",
@@ -500,11 +705,17 @@
       "description": "A browser-based “cyber” workbench for encoding, decoding, encryption, compression, hashing, parsing, and data analysis recipes.",
       "url": "https://gchq.github.io/CyberChef/",
       "category": "privacy",
-      "tags": ["encode", "decode", "hash", "data-analytics"],
+      "tags": [
+        "encode",
+        "decode",
+        "hash",
+        "data-analytics"
+      ],
       "github": "https://github.com/gchq/CyberChef",
       "license": "Apache-2.0",
       "stars": 35337,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "brouter-web",
@@ -512,11 +723,17 @@
       "description": "A web client for the BRouter routing engine, providing OpenStreetMap-based route planning with profile customization and route export.",
       "url": "https://brouter.de/brouter-web/",
       "category": "utilities",
-      "tags": ["maps", "routing", "openstreetmap", "navigation"],
+      "tags": [
+        "maps",
+        "routing",
+        "openstreetmap",
+        "navigation"
+      ],
       "github": "https://github.com/nrenner/brouter-web",
       "license": "MIT",
       "stars": 489,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "kicanvas",
@@ -524,11 +741,17 @@
       "description": "An interactive browser-based viewer for KiCad schematics and PCB boards.",
       "url": "https://kicanvas.org/",
       "category": "development",
-      "tags": ["kicad", "pcb", "schematics", "electronics"],
+      "tags": [
+        "kicad",
+        "pcb",
+        "schematics",
+        "electronics"
+      ],
       "github": "https://github.com/theacodes/kicanvas",
       "license": "MIT",
       "stars": 1100,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "circuitjs1",
@@ -536,11 +759,17 @@
       "description": "A browser-based electronic circuit simulator with animated schematics, example circuits, and editable components.",
       "url": "https://www.falstad.com/circuit/",
       "category": "development",
-      "tags": ["circuit", "simulator", "electronics", "schematics"],
+      "tags": [
+        "circuit",
+        "simulator",
+        "electronics",
+        "schematics"
+      ],
       "github": "https://github.com/pfalstad/circuitjs1",
       "license": "GPL-2.0",
       "stars": 2310,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "algorithm-visualizer",
@@ -558,7 +787,8 @@
       "github": "https://github.com/algorithm-visualizer/algorithm-visualizer",
       "license": "MIT",
       "stars": 48640,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "subtitleedit",
@@ -566,11 +796,15 @@
       "description": "Online Subtitle Editor",
       "url": "https://www.nikse.dk/subtitleedit/online",
       "category": "media",
-      "tags": ["media", "subtitle"],
+      "tags": [
+        "media",
+        "subtitle"
+      ],
       "github": "https://github.com/SubtitleEdit/subtitleedit",
       "license": "MIT",
       "stars": 13492,
-      "featured": false
+      "addedAt": "2026-06-11",
+      "section": "meets-criteria"
     },
     {
       "id": "pixelorama",
@@ -578,11 +812,16 @@
       "description": "Create pixel art in your browser",
       "url": "https://orama-interactive.itch.io/pixelorama",
       "category": "design",
-      "tags": ["pixel-art", "canvas", "draw"],
+      "tags": [
+        "pixel-art",
+        "canvas",
+        "draw"
+      ],
       "github": "https://github.com/Orama-Interactive/Pixelorama",
       "license": "MIT",
       "stars": 9892,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "composeyogi",
@@ -590,11 +829,17 @@
       "description": "Ableton-style music composer for the web",
       "url": "https://composeyogi.com/",
       "category": "media",
-      "tags": ["music", "beat", "produce", "compose"],
+      "tags": [
+        "music",
+        "beat",
+        "produce",
+        "compose"
+      ],
       "github": "https://github.com/AppsYogi-com/ComposeYogi",
       "license": "MIT",
       "stars": 100,
-      "featured": true
+      "addedAt": "2026-06-13",
+      "section": "featured"
     },
     {
       "id": "drumhaus",
@@ -602,11 +847,16 @@
       "description": "Computer Controlled Rhythmic Groove Machine",
       "url": "https://drumha.us/",
       "category": "media",
-      "tags": ["music", "beat", "rythm"],
+      "tags": [
+        "music",
+        "beat",
+        "rythm"
+      ],
       "github": "https://github.com/mxfng/drumhaus",
       "license": "CC BY-NC-SA 4.0",
       "stars": 149,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "vert",
@@ -614,11 +864,16 @@
       "description": "File-converter fully in-browser",
       "url": "https://vert.sh/",
       "category": "utilities",
-      "tags": ["file-conversion", "file", "convert"],
+      "tags": [
+        "file-conversion",
+        "file",
+        "convert"
+      ],
       "github": "https://github.com/VERT-sh/VERT",
       "license": "AGPL-3.0",
       "stars": 15259,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "godsvg",
@@ -626,11 +881,15 @@
       "description": "Structured SVG editor",
       "url": "https://www.godsvg.com/editor/",
       "category": "design",
-      "tags": ["svg", "editor"],
+      "tags": [
+        "svg",
+        "editor"
+      ],
       "github": "https://github.com/MewPurPur/GodSVG",
       "license": "MIT",
       "stars": 2627,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "spliit",
@@ -638,11 +897,16 @@
       "description": "Share expenses with your friends and family",
       "url": "https://spliit.app/",
       "category": "utilities",
-      "tags": ["bill-splitting", "money", "expense"],
+      "tags": [
+        "bill-splitting",
+        "money",
+        "expense"
+      ],
       "github": "https://github.com/spliit-app/spliit",
       "license": "MIT",
       "stars": 2806,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "paperknife",
@@ -650,11 +914,15 @@
       "description": "Merge, split, compress, and edit PDFs 100% locally on your device",
       "url": "https://potatameister.github.io/PaperKnife/",
       "category": "utilities",
-      "tags": ["pdf", "pdf-tools"],
+      "tags": [
+        "pdf",
+        "pdf-tools"
+      ],
       "github": "https://github.com/potatameister/PaperKnife",
       "license": "AGPL-3.0",
       "stars": 1344,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "squoosh",
@@ -662,11 +930,16 @@
       "description": "Image compression web app that reduces image sizes through numerous formats",
       "url": "https://squoosh.app/",
       "category": "media",
-      "tags": ["image", "compression", "picture"],
+      "tags": [
+        "image",
+        "compression",
+        "picture"
+      ],
       "github": "https://github.com/GoogleChromeLabs/squoosh/",
       "license": "Apache-2.0",
       "stars": 25485,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "sharr",
@@ -674,11 +947,16 @@
       "description": "End-to-end encrypted file transfer",
       "url": "https://www.sharrr.com/",
       "category": "utilities",
-      "tags": ["file-sharing", "file", "share"],
+      "tags": [
+        "file-sharing",
+        "file",
+        "share"
+      ],
       "github": "https://github.com/stophecom/sharrr-svelte",
       "license": "MIT",
       "stars": 166,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "ente-paste",
@@ -686,11 +964,16 @@
       "description": "Share text between devices securely with QR code or URL",
       "url": "https://paste.ente.com/",
       "category": "utilities",
-      "tags": ["paste", "text", "share"],
+      "tags": [
+        "paste",
+        "text",
+        "share"
+      ],
       "github": "https://github.com/ente-io/ente",
       "license": "AGPL-3.0",
       "stars": 27677,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "linwood-butterfly",
@@ -698,11 +981,16 @@
       "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
       "url": "https://web.butterfly.linwood.dev/",
       "category": "writing",
-      "tags": ["notes", "note-taking", "sketch"],
+      "tags": [
+        "notes",
+        "note-taking",
+        "sketch"
+      ],
       "github": "https://github.com/LinwoodDev/Butterfly",
       "license": "AGPL-3.0",
       "stars": 1925,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "rom-patcher-js",
@@ -710,11 +998,16 @@
       "description": "A ROM patcher made in Javascript",
       "url": "https://www.marcrobledo.com/RomPatcher.js/",
       "category": "development",
-      "tags": ["rom", "emulation", "patch"],
+      "tags": [
+        "rom",
+        "emulation",
+        "patch"
+      ],
       "github": "https://github.com/marcrobledo/RomPatcher.js/",
       "license": "MIT",
       "stars": 1153,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "mini-photoeditor",
@@ -722,11 +1015,16 @@
       "description": "Online webgl photo editor with effects, filters and cropping",
       "url": "https://mini2-photo-editor.netlify.app/",
       "category": "media",
-      "tags": ["photo", "picutre", "edit"],
+      "tags": [
+        "photo",
+        "picutre",
+        "edit"
+      ],
       "github": "https://github.com/xdadda/mini-photo-editor",
       "license": "MIT",
       "stars": 529,
-      "featured": false
+      "addedAt": "2026-06-13",
+      "section": "meets-criteria"
     },
     {
       "id": "omniclip",
@@ -734,11 +1032,16 @@
       "description": "Powerful video editor right in your browser",
       "url": "https://omniclip.app/",
       "category": "media",
-      "tags": ["video", "editor", "timeline"],
+      "tags": [
+        "video",
+        "editor",
+        "timeline"
+      ],
       "github": "https://github.com/omni-media/omniclip",
       "license": "MIT",
       "stars": 1438,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "phosphor-cam",
@@ -746,11 +1049,16 @@
       "description": "Real-time ASCII art camera that transforms your webcam feed into glowing terminal aesthetics. Built with React + Canvas API",
       "url": "https://phosphor-cam.vercel.app/",
       "category": "design",
-      "tags": ["ascii-art", "real-time", "camera"],
+      "tags": [
+        "ascii-art",
+        "real-time",
+        "camera"
+      ],
       "github": "https://github.com/pshycodr/phosphor-cam",
       "license": "MIT",
       "stars": 95,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "easypeasycv",
@@ -758,11 +1066,16 @@
       "description": "resume builder designed for professionals who value privacy, flexibility, and control over their data",
       "url": "https://easypeasycv.com/",
       "category": "writing",
-      "tags": ["cv", "ats", "resume-builder"],
+      "tags": [
+        "cv",
+        "ats",
+        "resume-builder"
+      ],
       "github": "https://github.com/goncalojbsousa/EasyPeasyCV",
       "license": "MIT",
       "stars": 20,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "online-maven-download-tool",
@@ -770,11 +1083,15 @@
       "description": "Download Maven JAR dependencies and transitive dependencies as ZIP",
       "url": "https://maven-tools.mohants.com/",
       "category": "development",
-      "tags": ["maven", "jar"],
+      "tags": [
+        "maven",
+        "jar"
+      ],
       "github": "https://github.com/pmg1991/maven-tools",
       "license": "MIT",
       "stars": 3,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "protegemidni",
@@ -782,11 +1099,15 @@
       "description": "Redact the non essential info from the spanish National Identification Document",
       "url": "https://protegemidni.es",
       "category": "privacy",
-      "tags": ["redact", "document"],
+      "tags": [
+        "redact",
+        "document"
+      ],
       "github": "https://github.com/AlfonsoML/proteccionDNI/",
       "license": "GPL-3.0",
       "stars": 52,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "stirling-pdf",
@@ -794,11 +1115,17 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "url": "https://stirling.com/app",
       "category": "productivity",
-      "tags": ["pdf", "reader", "ocr", "edit"],
+      "tags": [
+        "pdf",
+        "reader",
+        "ocr",
+        "edit"
+      ],
       "github": "https://github.com/Stirling-Tools/Stirling-PDF",
       "license": "MIT",
       "stars": 87192,
-      "featured": false,
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria",
       "notRecommendedReason": "Skippable-signup"
     },
     {
@@ -807,11 +1134,16 @@
       "description": "Configuration builder/editor for opencode.",
       "url": "https://openconfig.mikescave.us",
       "category": "development",
-      "tags": ["config", "ai", "opencode"],
+      "tags": [
+        "config",
+        "ai",
+        "opencode"
+      ],
       "github": "https://github.com/mikecase/opencode-config-builder",
       "license": "?",
       "stars": 3,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "osiris",
@@ -819,11 +1151,17 @@
       "description": "Open Source Palantir Alternative",
       "url": "https://www.osirisai.live/",
       "category": "data",
-      "tags": ["OSINT", "CCTV", "airplanes", "satellites"],
+      "tags": [
+        "OSINT",
+        "CCTV",
+        "airplanes",
+        "satellites"
+      ],
       "github": "https://github.com/simplifaisoul/osiris",
       "license": "MIT",
       "stars": 6818,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "niolesk",
@@ -831,11 +1169,16 @@
       "description": "Edit diagrams from textual descriptions!",
       "url": "niolesk.top",
       "category": "development",
-      "tags": ["diagram", "uml", "draw"],
+      "tags": [
+        "diagram",
+        "uml",
+        "draw"
+      ],
       "github": "https://github.com/webgiss/niolesk/",
       "license": "MIT",
       "stars": 113,
-      "featured": false
+      "addedAt": "2026-06-14",
+      "section": "meets-criteria"
     },
     {
       "id": "quickretro",
@@ -843,11 +1186,16 @@
       "description": "Real-time app for conducting a remote sprint retrospective meeting",
       "url": "https://quickretro.app/",
       "category": "productivity",
-      "tags": ["project-management", "agile", "scrum"],
+      "tags": [
+        "project-management",
+        "agile",
+        "scrum"
+      ],
       "github": "https://github.com/vijeeshr/quickretro",
       "license": "AGPL-3.0",
       "stars": 42,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "grade-boundaries",
@@ -855,11 +1203,16 @@
       "description": "A level and IGCSE grade boundary lookup",
       "url": "https://gradeboundaries.com",
       "category": "data",
-      "tags": ["education", "dataset", "a-level"],
+      "tags": [
+        "education",
+        "dataset",
+        "a-level"
+      ],
       "github": "https://github.com/Grade-Boundaries/GradeBoundaries-stable",
       "license": "CC BY-NC 4.0",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "enclosed",
@@ -867,11 +1220,16 @@
       "description": "Minimalistic web application designed for sending end-to-end encrypted notes and files",
       "url": "https://enclosed.cc/",
       "category": "utilities",
-      "tags": ["notes", "file-sharing", "files"],
+      "tags": [
+        "notes",
+        "file-sharing",
+        "files"
+      ],
       "github": "https://github.com/CorentinTh/enclosed",
       "license": "Apache-2.0",
       "stars": 2036,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "image-max-url",
@@ -879,11 +1237,16 @@
       "description": "Finds larger/original versions of images and videos",
       "url": "https://qsniyg.github.io/maxurl/",
       "category": "media",
-      "tags": ["image", "video", "size"],
+      "tags": [
+        "image",
+        "video",
+        "size"
+      ],
       "github": "https://github.com/qsniyg/maxurl",
       "license": "Apache-2.0",
       "stars": 1584,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "qrazybox",
@@ -891,11 +1254,16 @@
       "description": "web-based application (a toolkit), that used to analyzing and recovering damaged QR Code",
       "url": "https://merricx.github.io/qrazybox/",
       "category": "utilities",
-      "tags": ["qr-code", "recovery", "analysis"],
+      "tags": [
+        "qr-code",
+        "recovery",
+        "analysis"
+      ],
       "github": "https://github.com/Merricx/qrazybox",
       "license": "MIT",
       "stars": 523,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "vecto3d",
@@ -903,11 +1271,17 @@
       "description": "A super simple tool to convert your SVG's to 3D models",
       "url": "https://vecto3d.app/",
       "category": "design",
-      "tags": ["3d", "svg", "design", "model"],
+      "tags": [
+        "3d",
+        "svg",
+        "design",
+        "model"
+      ],
       "github": "https://github.com/lakshaybhushan/vecto3d",
       "license": "MIT",
       "stars": 1405,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "metadata-remover",
@@ -915,11 +1289,16 @@
       "description": "Removes metadata from supported formats in-browser using WASM",
       "url": "https://ianonymous3000.github.io/metadata-remover/",
       "category": "privacy",
-      "tags": ["metadata", "file", "remover"],
+      "tags": [
+        "metadata",
+        "file",
+        "remover"
+      ],
       "github": "https://github.com/iAnonymous3000/metadata-remover",
       "license": "MIT",
       "stars": 77,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "dashboard-icons",
@@ -927,11 +1306,18 @@
       "description": "A collection of over 1800 curated icons for services, applications and tools, designed specifically for dashboards and app directories",
       "url": "https://dashboardicons.com/",
       "category": "design",
-      "tags": ["design", "png", "svg", "logos", "icons"],
+      "tags": [
+        "design",
+        "png",
+        "svg",
+        "logos",
+        "icons"
+      ],
       "github": "https://github.com/homarr-labs/dashboard-icons",
       "license": "Apache-2.0",
       "stars": 8458,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "studio",
@@ -939,11 +1325,17 @@
       "description": "A suite of random, mostly weird, generative art tools!",
       "url": "https://studio.neato.fun/",
       "category": "design",
-      "tags": ["ascii", "algorithm", "dithering", "svg"],
+      "tags": [
+        "ascii",
+        "algorithm",
+        "dithering",
+        "svg"
+      ],
       "github": "https://github.com/Shpigford/studio",
       "license": "MIT",
       "stars": 151,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "gately",
@@ -951,11 +1343,16 @@
       "description": "Simple and modern web-based logic gate simulator",
       "url": "https://www.gately.dev/",
       "category": "development",
-      "tags": ["logic-gate", "cs", "science"],
+      "tags": [
+        "logic-gate",
+        "cs",
+        "science"
+      ],
       "github": "https://github.com/jakmaz/gately",
       "license": "MIT",
       "stars": 9,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "world-monitor",
@@ -963,11 +1360,16 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://www.worldmonitor.app/",
       "category": "data",
-      "tags": ["osint", "news", "monitor"],
+      "tags": [
+        "osint",
+        "news",
+        "monitor"
+      ],
       "github": "https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general",
       "license": "AGPL-3.0-only",
       "stars": 61907,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "dither",
@@ -975,11 +1377,15 @@
       "description": "Pixel-perfect dithering utility. Drop an image, dial in the settings, ship a dither",
       "url": "https://dither.fuego.im/",
       "category": "design",
-      "tags": ["image", "editor"],
+      "tags": [
+        "image",
+        "editor"
+      ],
       "github": "https://github.com/fuegocoding/dither",
       "license": "?",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-06-15",
+      "section": "meets-criteria"
     },
     {
       "id": "image-scrubber",
@@ -987,11 +1393,16 @@
       "description": "A tool for anonymizing photographs taken at protests",
       "url": "https://everestpipkin.github.io/image-scrubber/",
       "category": "privacy",
-      "tags": ["image", "picture", "edit"],
+      "tags": [
+        "image",
+        "picture",
+        "edit"
+      ],
       "github": "https://github.com/everestpipkin/image-scrubber",
       "license": "MIT",
       "stars": 1002,
-      "featured": false
+      "addedAt": "2026-06-16",
+      "section": "meets-criteria"
     },
     {
       "id": "satvisor",
@@ -999,11 +1410,16 @@
       "description": "3D satellite tracker with orbit visualization, pass predictions, and antenna rotator control (GS-232, EasyComm, Hamlib)",
       "url": "https://satvisor.com/",
       "category": "data",
-      "tags": ["satellite", "space", "visualize"],
+      "tags": [
+        "satellite",
+        "space",
+        "visualize"
+      ],
       "github": "https://github.com/satvisorcom/satvisor",
       "license": "AGPL-3.0",
       "stars": 8,
-      "featured": false
+      "addedAt": "2026-06-16",
+      "section": "meets-criteria"
     },
     {
       "id": "image-to-unicodeascii-generator",
@@ -1011,11 +1427,16 @@
       "description": "Easily transform any image into ASCII/Unicode art",
       "url": "https://reactorcore.itch.io/image-to-unicodeascii-generator",
       "category": "design",
-      "tags": ["ascii", "image", "picture"],
+      "tags": [
+        "ascii",
+        "image",
+        "picture"
+      ],
       "github": "https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main",
       "license": "?",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-06-16",
+      "section": "meets-criteria"
     },
     {
       "id": "xipe",
@@ -1023,11 +1444,17 @@
       "description": "URL shortener and pastebin service",
       "url": "https://xi.pe/",
       "category": "utilities",
-      "tags": ["paste-bin", "paste", "text", "share"],
+      "tags": [
+        "paste-bin",
+        "paste",
+        "text",
+        "share"
+      ],
       "github": "https://github.com/drewstreib/xipe-go",
       "license": "MIT",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-06-16",
+      "section": "meets-criteria"
     },
     {
       "id": "delphitools",
@@ -1035,11 +1462,17 @@
       "description": "A collection of small, low stakes and low effort tools",
       "url": "https://delphi.tools/",
       "category": "development",
-      "tags": ["image", "qr", "picture", "list"],
+      "tags": [
+        "image",
+        "qr",
+        "picture",
+        "list"
+      ],
       "github": "https://github.com/1612elphi/delphitools",
       "license": "MIT",
       "stars": 624,
-      "featured": false
+      "addedAt": "2026-06-16",
+      "section": "meets-criteria"
     },
     {
       "id": "kpaste",
@@ -1047,11 +1480,15 @@
       "description": "Private end-to-end encrypted pastebin",
       "url": "https://kpaste.infomaniak.com/",
       "category": "utilities",
-      "tags": ["paste-bin", "text"],
+      "tags": [
+        "paste-bin",
+        "text"
+      ],
       "github": "https://github.com/Infomaniak/kpaste",
       "license": "GPL-3.0",
       "stars": 56,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "svgpatheditor",
@@ -1059,11 +1496,15 @@
       "description": "Online editor to create and manipulate SVG paths",
       "url": "https://yqnn.github.io/svg-path-editor/",
       "category": "design",
-      "tags": ["svg", "editor"],
+      "tags": [
+        "svg",
+        "editor"
+      ],
       "github": "https://github.com/Yqnn/svg-path-editor",
       "license": "Apache-2.0",
       "stars": 5238,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "blockbench",
@@ -1071,11 +1512,17 @@
       "description": "A low poly 3D model editor",
       "url": "https://web.blockbench.net/",
       "category": "design",
-      "tags": ["3d", "modeler", "editor", "low-poly"],
+      "tags": [
+        "3d",
+        "modeler",
+        "editor",
+        "low-poly"
+      ],
       "github": "https://github.com/JannisX11/blockbench",
       "license": "GPL-3.0",
       "stars": 5666,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "audiomass",
@@ -1083,11 +1530,15 @@
       "description": "Free full-featured web-based audio & waveform editing tool",
       "url": "https://audiomass.co/",
       "category": "media",
-      "tags": ["audio", "editor"],
+      "tags": [
+        "audio",
+        "editor"
+      ],
       "github": "https://github.com/pkalogiros/AudioMass",
       "license": "MIT",
       "stars": 2860,
-      "featured": true
+      "addedAt": "2026-06-17",
+      "section": "featured"
     },
     {
       "id": "sqlime",
@@ -1095,11 +1546,16 @@
       "description": "Online SQLite playground",
       "url": "https://sqlime.org/",
       "category": "development",
-      "tags": ["sql", "playground", "learn"],
+      "tags": [
+        "sql",
+        "playground",
+        "learn"
+      ],
       "github": "https://github.com/nalgeon/sqlime",
       "license": "MIT",
       "stars": 1063,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "mirotalk-p2p",
@@ -1107,11 +1563,17 @@
       "description": "WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy",
       "url": "https://p2p.mirotalk.com/",
       "category": "productivity",
-      "tags": ["meeting", "video-call", "call", "screen-share"],
+      "tags": [
+        "meeting",
+        "video-call",
+        "call",
+        "screen-share"
+      ],
       "github": "https://github.com/miroslavpejic85/mirotalk",
       "license": "AGPL-3.0",
       "stars": 4634,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "ast-explorer",
@@ -1119,11 +1581,15 @@
       "description": "A web tool to explore the ASTs generated by various parsers.",
       "url": "https://astexplorer.net/",
       "category": "development",
-      "tags": ["ast", "visualizer"],
+      "tags": [
+        "ast",
+        "visualizer"
+      ],
       "github": "https://github.com/fkling/astexplorer",
       "license": "MIT",
       "stars": 6542,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "it-tools",
@@ -1131,11 +1597,15 @@
       "description": "Collection of handy online tools for developers, with great UX",
       "url": "https://it-tools.tech/",
       "category": "development",
-      "tags": ["tools", "list"],
+      "tags": [
+        "tools",
+        "list"
+      ],
       "github": "https://github.com/corentinth/it-tools",
       "license": "GPL-3.0",
       "stars": 39819,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "flowchartfun",
@@ -1143,11 +1613,15 @@
       "description": "Easily generate flowcharts and diagrams from text",
       "url": "https://flowchart.fun/",
       "category": "productivity",
-      "tags": ["flowchart", "diagram"],
+      "tags": [
+        "flowchart",
+        "diagram"
+      ],
       "github": "https://github.com/tone-row/flowchart-fun",
       "license": "MIT",
       "stars": 3363,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "ffmpegwasm",
@@ -1155,11 +1629,15 @@
       "description": "FFmpeg for browser, powered by WebAssembly",
       "url": "https://ffmpegwasm.netlify.app/playground",
       "category": "development",
-      "tags": ["ffmpeg", "video"],
+      "tags": [
+        "ffmpeg",
+        "video"
+      ],
       "github": "https://github.com/ffmpegwasm/ffmpeg.wasm",
       "license": "MIT",
       "stars": 17679,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "koodo-reader",
@@ -1167,11 +1645,16 @@
       "description": "A modern ebook manager and reader",
       "url": "https://web.koodoreader.com/",
       "category": "writing",
-      "tags": ["ereader", "epub", "reader"],
+      "tags": [
+        "ereader",
+        "epub",
+        "reader"
+      ],
       "github": "https://github.com/koodo-reader/koodo-reader",
       "license": "AGPL-3.0",
       "stars": 27517,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "hoppscotch",
@@ -1179,11 +1662,16 @@
       "description": "Open-Source API Development Ecosystem. Alternative to Postman, Insomnia",
       "url": "https://hoppscotch.io/",
       "category": "development",
-      "tags": ["postman", "api", "test"],
+      "tags": [
+        "postman",
+        "api",
+        "test"
+      ],
       "github": "https://github.com/hoppscotch/hoppscotch",
       "license": "MIT",
       "stars": 79809,
-      "featured": true
+      "addedAt": "2026-06-17",
+      "section": "featured"
     },
     {
       "id": "json-crack",
@@ -1191,11 +1679,16 @@
       "description": "visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs",
       "url": "https://jsoncrack.com/",
       "category": "development",
-      "tags": ["json", "diagram", "visualize"],
+      "tags": [
+        "json",
+        "diagram",
+        "visualize"
+      ],
       "github": "https://github.com/AykutSarac/jsoncrack.com",
       "license": "Apache-2.0",
       "stars": 44243,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "cobalt",
@@ -1203,11 +1696,16 @@
       "description": "media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.",
       "url": "https://cobalt.tools/",
       "category": "media",
-      "tags": ["media", "download", "file"],
+      "tags": [
+        "media",
+        "download",
+        "file"
+      ],
       "github": "https://github.com/imputnet/cobalt",
       "license": "AGPL-3.0",
       "stars": 41576,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "toolsforimage",
@@ -1215,11 +1713,16 @@
       "description": "web application that provides a suite of image processing tools",
       "url": "https://toolsforimage.com/",
       "category": "design",
-      "tags": ["image", "list", "tools"],
+      "tags": [
+        "image",
+        "list",
+        "tools"
+      ],
       "github": "https://github.com/mlbrothers/ToolsForImage-OSS",
       "license": "MIT",
       "stars": 20,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "thesvg",
@@ -1227,11 +1730,17 @@
       "description": "6,100+ SVG icons. Brands, AWS, Azure, GCP, and more. Search, copy, ship.",
       "url": "https://thesvg.org/",
       "category": "design",
-      "tags": ["svg", "list", "logos", "icons"],
+      "tags": [
+        "svg",
+        "list",
+        "logos",
+        "icons"
+      ],
       "github": "https://github.com/glincker/thesvg",
       "license": "MIT",
       "stars": 2439,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "terraink",
@@ -1239,11 +1748,16 @@
       "description": "Cartographic poster engine",
       "url": "https://terraink.app/",
       "category": "design",
-      "tags": ["map", "art", "poster"],
+      "tags": [
+        "map",
+        "art",
+        "poster"
+      ],
       "github": "https://github.com/yousifamanuel/terraink",
       "license": "MIT",
       "stars": 3626,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "cheezypizza",
@@ -1251,11 +1765,16 @@
       "description": "WebRTC based p2p file transfers in your browser",
       "url": "https://file.pizza/",
       "category": "utilities",
-      "tags": ["file-transfer", "file", "transfer"],
+      "tags": [
+        "file-transfer",
+        "file",
+        "transfer"
+      ],
       "github": "https://github.com/hariharjeevan/cheezypizza",
       "license": "BSD 3-Clause",
       "stars": 127,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "darklyart",
@@ -1263,11 +1782,16 @@
       "description": "Entropic Editor for Artists",
       "url": "https://darkly.art/",
       "category": "design",
-      "tags": ["editor", "image", "paint"],
+      "tags": [
+        "editor",
+        "image",
+        "paint"
+      ],
       "github": "https://github.com/darkly-art/darkly",
       "license": "AGPL-3.0",
       "stars": 70,
-      "featured": false
+      "addedAt": "2026-06-17",
+      "section": "meets-criteria"
     },
     {
       "id": "free-cv-builder",
@@ -1275,11 +1799,16 @@
       "description": "Build a professional CV in a few minutes and download it as a PDF",
       "url": "https://buildmyfree.cv/",
       "category": "writing",
-      "tags": ["cv", "resume", "builder"],
+      "tags": [
+        "cv",
+        "resume",
+        "builder"
+      ],
       "github": "https://github.com/themidnightgospel/free-cv-builder",
       "license": "MIT",
       "stars": 23,
-      "featured": false
+      "addedAt": "2026-06-18",
+      "section": "meets-criteria"
     },
     {
       "id": "jobber",
@@ -1287,11 +1816,18 @@
       "description": "Dynamic Job Search RSS Feed Generator",
       "url": "https://rssjobs.app/",
       "category": "utilities",
-      "tags": ["jobs", "rss", "generator", "search", "scraper"],
+      "tags": [
+        "jobs",
+        "rss",
+        "generator",
+        "search",
+        "scraper"
+      ],
       "github": "https://github.com/alwedo/jobber",
       "license": "MIT",
       "stars": 8,
-      "featured": false
+      "addedAt": "2026-06-18",
+      "section": "meets-criteria"
     },
     {
       "id": "wavacity",
@@ -1299,11 +1835,16 @@
       "description": "Easy-to-use, multi-track audio editor and recorder",
       "url": "https://wavacity.com/",
       "category": "media",
-      "tags": ["audio", "editor", "recorder"],
+      "tags": [
+        "audio",
+        "editor",
+        "recorder"
+      ],
       "github": "https://github.com/ahilss/wavacity",
       "license": "GPL-2.0",
       "stars": 477,
-      "featured": false
+      "addedAt": "2026-06-20",
+      "section": "meets-criteria"
     },
     {
       "id": "clearcanvas-ai",
@@ -1311,11 +1852,18 @@
       "description": "Generate images, compress photos, upscale pictures, and remove backgrounds",
       "url": "https://clearcanvasai.vercel.app/",
       "category": "media",
-      "tags": ["ai", "bg-remover", "compression", "upscale", "generator"],
+      "tags": [
+        "ai",
+        "bg-remover",
+        "compression",
+        "upscale",
+        "generator"
+      ],
       "github": "https://github.com/rakibulsagor/Clearcanvas",
       "license": "MIT",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-06-20",
+      "section": "meets-criteria"
     },
     {
       "id": "verisim",
@@ -1323,11 +1871,16 @@
       "description": "Verilog simulator built by compiling Icarus Verilog to WebAssembly. No server, no install: edit, compile, simulate, view waveforms, and synthesize to a gate-level or RTL schematic",
       "url": "https://senolgulgonul.github.io/verisim/",
       "category": "development",
-      "tags": ["simulate", "verilog", "schematic"],
+      "tags": [
+        "simulate",
+        "verilog",
+        "schematic"
+      ],
       "github": "https://github.com/senolgulgonul/verisim",
       "license": "GPL-2.0",
       "stars": 20,
-      "featured": false
+      "addedAt": "2026-06-20",
+      "section": "meets-criteria"
     },
     {
       "id": "sqlchef",
@@ -1335,11 +1888,17 @@
       "description": "Query files like CSV, JSON, and Parquet directly in the browser",
       "url": "https://jonathanwalker.github.io/SQLChef/",
       "category": "data",
-      "tags": ["query", "sql", "csv", "json"],
+      "tags": [
+        "query",
+        "sql",
+        "csv",
+        "json"
+      ],
       "github": "https://github.com/jonathanwalker/sqlchef",
       "license": "MIT",
       "stars": 14,
-      "featured": false
+      "addedAt": "2026-06-20",
+      "section": "meets-criteria"
     },
     {
       "id": "bentopdf",
@@ -1347,11 +1906,17 @@
       "description": "Powerful, privacy-first, client-side PDF toolkit that is self hostable and allows you to manipulate, edit, merge, and process PDF files",
       "url": "https://www.bentopdf.com/",
       "category": "productivity",
-      "tags": ["pdf", "merge", "edit", "list"],
+      "tags": [
+        "pdf",
+        "merge",
+        "edit",
+        "list"
+      ],
       "github": "https://github.com/alam00000/bentopdf/",
       "license": "AGPL-3.0",
       "stars": 14083,
-      "featured": true
+      "addedAt": "2026-06-20",
+      "section": "featured"
     },
     {
       "id": "shadestudio",
@@ -1359,11 +1924,15 @@
       "description": "Create a full color palette from a base color and export it to CSS, Tailwind and SVG",
       "url": "https://laura.media/shade-studio/",
       "category": "design",
-      "tags": ["color", "pallete"],
+      "tags": [
+        "color",
+        "pallete"
+      ],
       "github": "https://github.com/LauraWebdev/shade-studio",
       "license": "MIT",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-06-20",
+      "section": "meets-criteria"
     },
     {
       "id": "dropsilk",
@@ -1371,11 +1940,18 @@
       "description": "Modern, privacy-focused, peer-to-peer file transfer application built with WebRTC with screen-share and chat functionality",
       "url": "https://www.dropsilk.xyz/",
       "category": "utilities",
-      "tags": ["file", "transfer", "p2p", "chat", "file-transfer"],
+      "tags": [
+        "file",
+        "transfer",
+        "p2p",
+        "chat",
+        "file-transfer"
+      ],
       "github": "https://github.com/medy17/dropsilk",
       "license": "GPL-3.0",
       "stars": 12,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "toolsatzero",
@@ -1383,11 +1959,16 @@
       "description": "A workbench of 52 everyday utilities (PDF manipulation, image processing, dev tools)",
       "url": "https://www.toolsatzero.com/",
       "category": "utilities",
-      "tags": ["pdf", "image", "dev-tools"],
+      "tags": [
+        "pdf",
+        "image",
+        "dev-tools"
+      ],
       "github": "https://github.com/Anirudh-Rao-portfolio/ToolsAtZero",
       "license": "NC",
       "stars": 13,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "online-tools",
@@ -1395,11 +1976,17 @@
       "description": "Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions",
       "url": "https://emn178.github.io/online-tools/",
       "category": "development",
-      "tags": ["encode", "decode", "hash", "convert"],
+      "tags": [
+        "encode",
+        "decode",
+        "hash",
+        "convert"
+      ],
       "github": "https://github.com/emn178/online-tools",
       "license": "?",
       "stars": 1201,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "convert",
@@ -1407,11 +1994,15 @@
       "description": "Truly universal online file converter",
       "url": "http://convert.to.it/",
       "category": "utilities",
-      "tags": ["file", "convert"],
+      "tags": [
+        "file",
+        "convert"
+      ],
       "github": "https://github.com/p2r3/convert",
       "license": "GPL-2.0",
       "stars": 3750,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "texturinator",
@@ -1419,11 +2010,16 @@
       "description": "Procedural texture and volume generation toolkit for volumetric rendering, terrain generation",
       "url": "https://texturinator.buttermilch-dev.de/",
       "category": "utilities",
-      "tags": ["procedural", "noise", "generator"],
+      "tags": [
+        "procedural",
+        "noise",
+        "generator"
+      ],
       "github": "https://github.com/MangoButtermilch/texturinator",
       "license": "?",
       "stars": 14,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "gridfinity-layout-tool",
@@ -1431,11 +2027,15 @@
       "description": "A tool for planning drawer organization using the Gridfinity modular storage system",
       "url": "https://gridfinitylayouttool.com",
       "category": "utilities",
-      "tags": ["3d-printing", "printing"],
+      "tags": [
+        "3d-printing",
+        "printing"
+      ],
       "github": "https://github.com/andymai/gridfinity-layout-tool",
       "license": "AGPL-3.0",
       "stars": 173,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "tomodoro",
@@ -1443,11 +2043,16 @@
       "description": "A pomodoro web app with PIP mode, white noise generation, tasks and more!",
       "url": "https://lazy-guy.github.io/tomodoro/",
       "category": "productivity",
-      "tags": ["pomodoro", "timer", "time-management"],
+      "tags": [
+        "pomodoro",
+        "timer",
+        "time-management"
+      ],
       "github": "https://github.com/lazy-guy/tomodoro",
       "license": "MIT",
       "stars": 303,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "voidmesh",
@@ -1455,11 +2060,18 @@
       "description": "Local image and video filters with shaders, on an infinite canvas",
       "url": "https://voidmesh.xyz/",
       "category": "design",
-      "tags": ["shaders", "dithering", "filters", "image", "picture"],
+      "tags": [
+        "shaders",
+        "dithering",
+        "filters",
+        "image",
+        "picture"
+      ],
       "github": "https://github.com/ogdakke/voidmesh",
       "license": "MIT",
       "stars": 3,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "greendolphin",
@@ -1467,11 +2079,15 @@
       "description": "Recording looper and analysis tool designed for musicians who want to transcribe music or learn songs by ear",
       "url": "https://greendolph.in",
       "category": "media",
-      "tags": ["music", "transcription"],
+      "tags": [
+        "music",
+        "transcription"
+      ],
       "github": "https://github.com/YottaYocta/GreenDolphin",
       "license": "GPL-3.0",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "fluid",
@@ -1479,11 +2095,17 @@
       "description": "Dependency-free WebGL studio for generative backgrounds and live embeds",
       "url": "https://fluid.krackeddevs.com/",
       "category": "design",
-      "tags": ["procedural", "shaders", "background", "generative-art"],
+      "tags": [
+        "procedural",
+        "shaders",
+        "background",
+        "generative-art"
+      ],
       "github": "https://github.com/enonforetsam/fluid",
       "license": "MIT",
       "stars": 37,
-      "featured": true
+      "addedAt": "2026-06-21",
+      "section": "featured"
     },
     {
       "id": "screenshot-studio",
@@ -1491,11 +2113,16 @@
       "description": "A free, browser-based screenshot editor. Beautiful backgrounds, device frames, 3D effects, animations, and video export. No signup, no watermarks.",
       "url": "https://www.screenshot-studio.com/",
       "category": "design",
-      "tags": ["screenshot-editor", "canvas", "mockup"],
+      "tags": [
+        "screenshot-editor",
+        "canvas",
+        "mockup"
+      ],
       "github": "https://github.com/KartikLabhshetwar/screenshot-studio",
       "license": "Apache-2.0",
       "stars": 734,
-      "featured": true
+      "addedAt": "2026-06-21",
+      "section": "featured"
     },
     {
       "id": "icon-maker",
@@ -1503,11 +2130,15 @@
       "description": "Tool that lets you quickly generate clean, professional app icons using customizable shapes, gradients, and glyphs",
       "url": "https://ray.so/icon",
       "category": "design",
-      "tags": ["logo-designer", "icon-generator"],
+      "tags": [
+        "logo-designer",
+        "icon-generator"
+      ],
       "github": "https://github.com/raycast/ray-so",
       "license": "MIT",
       "stars": 2327,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "bundlephobia",
@@ -1524,7 +2155,8 @@
       "github": "https://github.com/pastelsky/bundlephobia",
       "license": "MIT",
       "stars": 9551,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "schema3d",
@@ -1532,11 +2164,17 @@
       "description": "An interactive tool for visualizing relational database schemas in 3D.",
       "url": "https://schema3d.com/",
       "category": "data",
-      "tags": ["sql", "3d", "database", "schema"],
+      "tags": [
+        "sql",
+        "3d",
+        "database",
+        "schema"
+      ],
       "github": "https://github.com/shane-jacobeen/schema3d",
       "license": "MIT",
       "stars": 8,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "transform",
@@ -1544,11 +2182,18 @@
       "description": "A polyglot web converter",
       "url": "https://transform.tools/",
       "category": "development",
-      "tags": ["code", "converter", "syntax", "ast", "transformer"],
+      "tags": [
+        "code",
+        "converter",
+        "syntax",
+        "ast",
+        "transformer"
+      ],
       "github": "https://github.com/ritz078/transform",
       "license": "MIT",
       "stars": 9183,
-      "featured": false
+      "addedAt": "2026-06-21",
+      "section": "meets-criteria"
     },
     {
       "id": "explainshellcom",
@@ -1556,11 +2201,16 @@
       "description": "Match command-line arguments to their help text",
       "url": "https://explainshell.com/",
       "category": "development",
-      "tags": ["cli", "command", "shell"],
+      "tags": [
+        "cli",
+        "command",
+        "shell"
+      ],
       "github": "https://github.com/idank/explainshell",
       "license": "GPL-3.0",
       "stars": 14118,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "pattern-craft",
@@ -1568,11 +2218,16 @@
       "description": "Professional-grade background patterns and gradients for your websites and apps",
       "url": "https://patterncraft.store/",
       "category": "design",
-      "tags": ["background", "patterns", "gradient"],
+      "tags": [
+        "background",
+        "patterns",
+        "gradient"
+      ],
       "github": "https://github.com/megh-bari/pattern-craft",
       "license": "MIT",
       "stars": 3041,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "component-gallery",
@@ -1580,11 +2235,16 @@
       "description": "The Component Gallery is a collection of components from the best Design Systems.",
       "url": "https://component.gallery/",
       "category": "design",
-      "tags": ["ui", "components", "design-systems"],
+      "tags": [
+        "ui",
+        "components",
+        "design-systems"
+      ],
       "github": "https://github.com/inbn/component-gallery",
       "license": "?",
       "stars": 338,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "s-2-v",
@@ -1592,11 +2252,18 @@
       "description": "A simple collection of video processing tools",
       "url": "https://s-2-v.pages.dev/",
       "category": "media",
-      "tags": ["video", "trim", "convert", "merge", "gif"],
+      "tags": [
+        "video",
+        "trim",
+        "convert",
+        "merge",
+        "gif"
+      ],
       "github": "https://github.com/kuronekony4n/sequence-to-video",
       "license": "?",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "asm-editor",
@@ -1604,11 +2271,16 @@
       "description": "A web editor to write, run and learn assembly code (X86, MIPS, RISC-V, M68K)",
       "url": "https://asm-editor.specy.app",
       "category": "development",
-      "tags": ["assembly", "code", "learn"],
+      "tags": [
+        "assembly",
+        "code",
+        "learn"
+      ],
       "github": "https://github.com/Specy/asm-editor",
       "license": "AGPL-3.0",
       "stars": 310,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "tokeko",
@@ -1616,11 +2288,17 @@
       "description": "An online creation tool for LALR and LR(1) parsers to learn how language theory works",
       "url": "https://tokeko.specy.app/",
       "category": "development",
-      "tags": ["code", "editor", "interactive", "learn"],
+      "tags": [
+        "code",
+        "editor",
+        "interactive",
+        "learn"
+      ],
       "github": "https://github.com/Specy/tokeko",
       "license": "?",
       "stars": 27,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "rooc-optimization",
@@ -1628,11 +2306,16 @@
       "description": "A web platform for modelling and solving linear optimization problems",
       "url": "https://rooc.specy.app/",
       "category": "development",
-      "tags": ["milp", "solver", "optimization"],
+      "tags": [
+        "milp",
+        "solver",
+        "optimization"
+      ],
       "github": "https://github.com/Specy/rooc",
       "license": "MPL-2.0",
       "stars": 65,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "klecks",
@@ -1640,11 +2323,14 @@
       "description": "Modern and feature-rich painting app for the web",
       "url": "https://kleki.com/",
       "category": "design",
-      "tags": ["draw"],
+      "tags": [
+        "draw"
+      ],
       "github": "https://github.com/bitbof/klecks",
       "license": "MIT",
       "stars": 364,
-      "featured": false
+      "addedAt": "2026-06-23",
+      "section": "meets-criteria"
     },
     {
       "id": "agora-cosmica",
@@ -1652,11 +2338,18 @@
       "description": "Learn from 30 historical figures through stories, dialogues, and AI conversation. Nonprofit, no signup.",
       "url": "https://agoracosmica.org",
       "category": "education",
-      "tags": ["education", "philosophy", "history", "ai-chat", "self-hosted"],
+      "tags": [
+        "education",
+        "philosophy",
+        "history",
+        "ai-chat",
+        "self-hosted"
+      ],
       "github": "https://github.com/chipmates/agoracosmica",
       "license": "AGPL-3.0",
       "stars": 129,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "lucide",
@@ -1664,11 +2357,18 @@
       "description": "Beautiful & consistent icon toolkit made by the community",
       "url": "https://lucide.dev/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/lucide-icons/lucide",
       "license": "ISC",
       "stars": 23463,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "lookscanned",
@@ -1676,11 +2376,16 @@
       "description": "Turn PDFs and documents into realistic scanned copies, add watermarks, stamps and metadata in a few clicks, with all processing done locally for maximum privacy.",
       "url": "https://lookscanned.io",
       "category": "writing",
-      "tags": ["pdf", "documents", "scan"],
+      "tags": [
+        "pdf",
+        "documents",
+        "scan"
+      ],
       "github": "https://github.com/lookscanned/lookscanned.io",
       "license": "MIT",
       "stars": 3562,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "planar",
@@ -1688,11 +2393,16 @@
       "description": "A client-side web utility to scale, crop, and tile images onto sheets of paper for printing at exact real-world dimensions.",
       "url": "https://planar.masn.studio",
       "category": "design",
-      "tags": ["printing", "papercraft", "tiling"],
+      "tags": [
+        "printing",
+        "papercraft",
+        "tiling"
+      ],
       "github": "https://github.com/Mason363/Planar",
       "license": "MIT",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "gistssh",
@@ -1700,11 +2410,14 @@
       "description": "GitHub Gists are the fastest way to share code, notes, and snippets. But they look terrible. This fixes that.",
       "url": "https://gists.sh/",
       "category": "development",
-      "tags": ["viewer"],
+      "tags": [
+        "viewer"
+      ],
       "github": "https://github.com/linuz90/gists.sh",
       "license": "?",
       "stars": 79,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "compress",
@@ -1712,11 +2425,16 @@
       "description": "Say goodbye to bulky files! Crush video sizes by 90% with no quality loss, even offline",
       "url": "https://videocompress.prolab.sh/",
       "category": "media",
-      "tags": ["video", "compression", "video-compression"],
+      "tags": [
+        "video",
+        "compression",
+        "video-compression"
+      ],
       "github": "https://github.com/pranavp10/video-compress",
       "license": "MIT",
       "stars": 355,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "simple-icons",
@@ -1724,11 +2442,18 @@
       "description": "Free SVG icons for popular brands. 3000+ icons, public domain, no signup.",
       "url": "https://simpleicons.org/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/simple-icons/simple-icons",
       "license": "CC0-1.0",
       "stars": 25434,
-      "featured": false
+      "addedAt": "2026-06-24",
+      "section": "meets-criteria"
     },
     {
       "id": "phosphor-icons",
@@ -1736,11 +2461,18 @@
       "description": "The homepage of Phosphor Icons, a flexible icon family for everyone",
       "url": "https://ionic.io/ionicons",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/phosphor-icons/homepage/tree/master",
       "license": "MIT",
       "stars": 7025,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "remix-icons",
@@ -1748,11 +2480,18 @@
       "description": "Open source neutral style icon system",
       "url": "https://remixicon.com/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/Remix-Design/RemixIcon",
       "license": "RIL-1.0",
       "stars": 8232,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "iconoir",
@@ -1760,11 +2499,18 @@
       "description": "An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.",
       "url": "https://iconoir.com/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/iconoir-icons/iconoir",
       "license": "MIT",
       "stars": 4482,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "openmoji",
@@ -1772,11 +2518,18 @@
       "description": "Open source emojis for designers, developers and everyone else!",
       "url": "https://openmoji.org/library/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/hfg-gmuend/openmoji",
       "license": "CC-BY-SA-4.0",
       "stars": 4490,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "heroicons",
@@ -1784,11 +2537,18 @@
       "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
       "url": "https://heroicons.com/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/tailwindlabs/heroicons",
       "license": "MIT",
       "stars": 23674,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "feather",
@@ -1796,11 +2556,18 @@
       "description": "Simply beautiful open-source icons",
       "url": "https://feathericons.com/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/feathericons/feather",
       "license": "MIT",
       "stars": 25972,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "tabler-icons",
@@ -1808,11 +2575,18 @@
       "description": "A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
       "url": "https://tabler.io/icons",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/tabler/tabler-icons",
       "license": "MIT",
       "stars": 21140,
-      "featured": false
+      "addedAt": "2026-06-25",
+      "section": "meets-criteria"
     },
     {
       "id": "sipp-chat",
@@ -1820,11 +2594,16 @@
       "description": "AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser",
       "url": "https://chat.sipp.sh/",
       "category": "productivity",
-      "tags": ["ai", "llm", "chat"],
+      "tags": [
+        "ai",
+        "llm",
+        "chat"
+      ],
       "github": "https://github.com/noumena-labs/Sipp",
       "license": "Apache-2.0",
       "stars": 88,
-      "featured": false
+      "addedAt": "2026-06-26",
+      "section": "meets-criteria"
     },
     {
       "id": "midee",
@@ -1832,11 +2611,16 @@
       "description": "Play, visualize, learn, and export your MIDI music as gorgeous piano-roll videos, entirely client-side with zero uploads.",
       "url": "https://midee.app/",
       "category": "media",
-      "tags": ["midi", "music", "piano"],
+      "tags": [
+        "midi",
+        "music",
+        "piano"
+      ],
       "github": "https://github.com/aayushdutt/midee",
       "license": "?",
       "stars": 26,
-      "featured": true
+      "addedAt": "2026-06-26",
+      "section": "featured"
     },
     {
       "id": "dohabit",
@@ -1844,11 +2628,15 @@
       "description": "Lightweight, local-first habit tracker designed to respect your privacy",
       "url": "https://dohabit.app/",
       "category": "productivity",
-      "tags": ["habit", "havit-form"],
+      "tags": [
+        "habit",
+        "havit-form"
+      ],
       "github": "https://github.com/iNikAnn/DoHabit",
       "license": "AGPL-3.0",
       "stars": 54,
-      "featured": false
+      "addedAt": "2026-06-26",
+      "section": "meets-criteria"
     },
     {
       "id": "visual-studio-code-for-the-web",
@@ -1856,11 +2644,16 @@
       "description": "provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly and safely browse source code repositories and make lightweight code changes",
       "url": "https://vscode.dev/",
       "category": "development",
-      "tags": ["ide", "vscode", "git"],
+      "tags": [
+        "ide",
+        "vscode",
+        "git"
+      ],
       "github": "https://github.com/microsoft/vscode",
       "license": "MIT",
       "stars": 187621,
-      "featured": false
+      "addedAt": "2026-06-26",
+      "section": "meets-criteria"
     },
     {
       "id": "scratch-tabs",
@@ -1868,11 +2661,18 @@
       "description": "A huge, searchable collection of 200+ local-first developer tools for everyday text, data, and format tasks.",
       "url": "https://app.scratchtabs.com/",
       "category": "development",
-      "tags": ["developer-tools", "json", "data-converter", "formatting", "transformation"],
+      "tags": [
+        "developer-tools",
+        "json",
+        "data-converter",
+        "formatting",
+        "transformation"
+      ],
       "github": "https://github.com/spectra-g/scratch-tabs",
       "license": "MIT",
       "stars": 3,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "universal-résumé-template",
@@ -1880,11 +2680,15 @@
       "description": "Minimal and formal résumé (CV) website template for print, mobile, and desktop",
       "url": "https://universalresume.app/?s=g",
       "category": "writing",
-      "tags": ["cv-builder", "resume-builder"],
+      "tags": [
+        "cv-builder",
+        "resume-builder"
+      ],
       "github": "https://github.com/WebPraktikos/universal-resume",
       "license": "CC BY-NC-SA 1.0",
       "stars": 1791,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "qrcodeshow",
@@ -1892,11 +2696,15 @@
       "description": "Generate QR code easily",
       "url": "https://qrcode.show/",
       "category": "utilities",
-      "tags": ["qr-code", "qr-generator"],
+      "tags": [
+        "qr-code",
+        "qr-generator"
+      ],
       "github": "https://github.com/sayanarijit/qrcode.show",
       "license": "AGPL-3.0",
       "stars": 633,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "selfh-st-icons",
@@ -1904,11 +2712,18 @@
       "description": "Dashboard Icons provided by selfh.st",
       "url": "https://selfh.st/icons/",
       "category": "development",
-      "tags": ["icons", "svg", "svg-library", "icons-library", "library"],
+      "tags": [
+        "icons",
+        "svg",
+        "svg-library",
+        "icons-library",
+        "library"
+      ],
       "github": "https://github.com/selfhst/icons",
       "license": "CC-BY-4.0",
       "stars": 927,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "tldraw",
@@ -1916,11 +2731,15 @@
       "description": "A simple drawing/whiteboarding tool",
       "url": "https://www.tldraw.com/",
       "category": "design",
-      "tags": ["whiteboard", "draw"],
+      "tags": [
+        "whiteboard",
+        "draw"
+      ],
       "github": "https://github.com/tldraw/tldraw",
       "license": "NC",
       "stars": 48778,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "carbon",
@@ -1928,11 +2747,15 @@
       "description": "Create and share beautiful images of your source code",
       "url": "https://carbon.now.sh/",
       "category": "development",
-      "tags": ["code-picture", "code-image"],
+      "tags": [
+        "code-picture",
+        "code-image"
+      ],
       "github": "https://github.com/carbon-app/carbon",
       "license": "MIT",
       "stars": 36060,
-      "featured": false
+      "addedAt": "2026-06-28",
+      "section": "meets-criteria"
     },
     {
       "id": "makegirlsmoe",
@@ -1949,7 +2772,8 @@
       "github": "https://github.com/makegirlsmoe/makegirlsmoe_web",
       "license": "CC BY-NC 2.0",
       "stars": 3409,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "asciiflow",
@@ -1957,11 +2781,16 @@
       "description": "An application for drawing ASCII diagrams",
       "url": "https://asciiflow.com/",
       "category": "productivity",
-      "tags": ["ascii", "draw", "diagram"],
+      "tags": [
+        "ascii",
+        "draw",
+        "diagram"
+      ],
       "github": "https://github.com/lewish/asciiflow",
       "license": "MIT",
       "stars": 5798,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "affine",
@@ -1969,11 +2798,15 @@
       "description": "Next-gen knowledge base that brings planning, sorting and creating all together",
       "url": "https://affine.pro/",
       "category": "writing",
-      "tags": ["knowledge-management", "notion-like"],
+      "tags": [
+        "knowledge-management",
+        "notion-like"
+      ],
       "github": "https://github.com/toeverything/AFFiNE",
       "license": "MIT",
       "stars": 70487,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "logseq",
@@ -1981,11 +2814,15 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration",
       "url": "https://logseq.com/",
       "category": "writing",
-      "tags": ["knowledge-management", "knowledge-platform"],
+      "tags": [
+        "knowledge-management",
+        "knowledge-platform"
+      ],
       "github": "https://github.com/logseq/logseq",
       "license": "AGPL-3.0",
       "stars": 43907,
-      "featured": true
+      "addedAt": "2026-06-30",
+      "section": "featured"
     },
     {
       "id": "svgomg",
@@ -1993,11 +2830,15 @@
       "description": "Shrink SVG sizes dramatically",
       "url": "https://jakearchibald.github.io/svgomg/",
       "category": "development",
-      "tags": ["svg-optimizer", "svg-compression"],
+      "tags": [
+        "svg-optimizer",
+        "svg-compression"
+      ],
       "github": "https://github.com/jakearchibald/svgomg",
       "license": "MIT",
       "stars": 6189,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "glyphr-studio",
@@ -2005,11 +2846,15 @@
       "description": "Font editor, made for hobbyists and typeface design beginners",
       "url": "https://www.glyphrstudio.com/",
       "category": "design",
-      "tags": ["font-editor", "font-designer"],
+      "tags": [
+        "font-editor",
+        "font-designer"
+      ],
       "github": "https://github.com/glyphr-studio/Glyphr-Studio-2",
       "license": "?",
       "stars": 298,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "codegraphcontext-cgc",
@@ -2017,11 +2862,16 @@
       "description": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants",
       "url": "https://cgc.codes/explore",
       "category": "development",
-      "tags": ["ai-tool", "llm-tool", "codebase-mapper"],
+      "tags": [
+        "ai-tool",
+        "llm-tool",
+        "codebase-mapper"
+      ],
       "github": "https://github.com/CodeGraphContext/CodeGraphContext",
       "license": "MIT",
       "stars": 3938,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "goatpad",
@@ -2029,11 +2879,16 @@
       "description": "A notepad for the web written in Flutter",
       "url": "https://goatpad.drexfall.com/",
       "category": "writing",
-      "tags": ["note-taking", "notes", "write"],
+      "tags": [
+        "note-taking",
+        "notes",
+        "write"
+      ],
       "github": "https://github.com/drexfall/goatpad",
       "license": "CC BY-NC-SA 4.0",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "oscilloscope-online-v2",
@@ -2041,11 +2896,16 @@
       "description": "Web Serial Plotter with as much customization as possible",
       "url": "https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html",
       "category": "utilities",
-      "tags": ["oscilloscope", "serial", "plotter"],
+      "tags": [
+        "oscilloscope",
+        "serial",
+        "plotter"
+      ],
       "github": "https://github.com/MUmarShahbaz/Oscilloscope-Online-V2",
       "license": "?",
       "stars": 13,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "regexr",
@@ -2053,11 +2913,15 @@
       "description": "HTML/JS based tool for creating, testing, and learning about Regular Expressions",
       "url": "https://regexr.com/",
       "category": "development",
-      "tags": ["regex", "pattern-matching"],
+      "tags": [
+        "regex",
+        "pattern-matching"
+      ],
       "github": "https://github.com/gskinner/regexr/",
       "license": "GPL-3.0",
       "stars": 10343,
-      "featured": true
+      "addedAt": "2026-06-30",
+      "section": "featured"
     },
     {
       "id": "webtorio",
@@ -2065,11 +2929,17 @@
       "description": "seamless torrent streaming and file sharing",
       "url": "https://webtor.io/",
       "category": "utilities",
-      "tags": ["torrent", "download", "upload", "stream"],
+      "tags": [
+        "torrent",
+        "download",
+        "upload",
+        "stream"
+      ],
       "github": "https://github.com/webtor-io/web-ui",
       "license": "MIT",
       "stars": 62,
-      "featured": true
+      "addedAt": "2026-06-30",
+      "section": "featured"
     },
     {
       "id": "quickrefme",
@@ -2077,11 +2947,17 @@
       "description": "Share quick reference cheat sheet for developers",
       "url": "https://quickref.me/",
       "category": "development",
-      "tags": ["cheat-sheets", "dev-docs", "syntax-reference", "code-snippets"],
+      "tags": [
+        "cheat-sheets",
+        "dev-docs",
+        "syntax-reference",
+        "code-snippets"
+      ],
       "github": "https://github.com/Fechin/reference",
       "license": "GPL-3.0",
       "stars": 10678,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "zkdrop",
@@ -2089,11 +2965,15 @@
       "description": "Secure, temporary, and minimal file sharing with zero-knowledge encryption",
       "url": "https://zkdrop.org",
       "category": "utilities",
-      "tags": ["file-sharing", "file-transfer"],
+      "tags": [
+        "file-sharing",
+        "file-transfer"
+      ],
       "github": "https://github.com/zedxihan/zkdrop",
       "license": "AGPL-3.0",
       "stars": 2,
-      "featured": false
+      "addedAt": "2026-06-30",
+      "section": "meets-criteria"
     },
     {
       "id": "cryptgeon",
@@ -2101,11 +2981,17 @@
       "description": "Send fully encrypted secure notes or files with custom expiration",
       "url": "https://cryptgeon.com/",
       "category": "privacy",
-      "tags": ["notes", "file-transfer", "share", "send"],
+      "tags": [
+        "notes",
+        "file-transfer",
+        "share",
+        "send"
+      ],
       "github": "https://github.com/cupcakearmy/cryptgeon",
       "license": "MIT",
       "stars": 1481,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "mermify",
@@ -2113,11 +2999,17 @@
       "description": "Bi-directional visual editor for Mermaid.js flowcharts",
       "url": "https://tra-sco.github.io/mermify/",
       "category": "productivity",
-      "tags": ["mermaid", "graph", "flowchart", "editor"],
+      "tags": [
+        "mermaid",
+        "graph",
+        "flowchart",
+        "editor"
+      ],
       "github": "https://github.com/tra-sco/mermify",
       "license": "MIT",
       "stars": 9,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "drawshare",
@@ -2125,11 +3017,16 @@
       "description": "collaborative whiteboard for drawing and note-taking",
       "url": "https://shravangoswami.com/DrawShare/",
       "category": "design",
-      "tags": ["drawing", "whiteboard", "collaboration"],
+      "tags": [
+        "drawing",
+        "whiteboard",
+        "collaboration"
+      ],
       "github": "https://github.com/shravanngoswamii/DrawShare",
       "license": "MIT",
       "stars": 6,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "editorpilot",
@@ -2137,11 +3034,16 @@
       "description": "AI writing assistant that lives entirely in your browser",
       "url": "https://editorpilot.com/",
       "category": "writing",
-      "tags": ["ai", "grammar", "editor"],
+      "tags": [
+        "ai",
+        "grammar",
+        "editor"
+      ],
       "github": "https://github.com/tuton012/editorpilot",
       "license": "?",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "full-stack-open",
@@ -2149,11 +3051,15 @@
       "description": "Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go",
       "url": "https://fullstackopen.com/en/",
       "category": "education",
-      "tags": ["development-course", "full-stack-course"],
+      "tags": [
+        "development-course",
+        "full-stack-course"
+      ],
       "github": "https://github.com/fullstack-hy2020/fullstack-hy2020.github.io",
       "license": "CC BY-NC-SA 3.0",
       "stars": 2184,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "tailit",
@@ -2161,11 +3067,15 @@
       "description": "An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match",
       "url": "https://tailit.xyz/",
       "category": "productivity",
-      "tags": ["resume-builder", "cv-builder"],
+      "tags": [
+        "resume-builder",
+        "cv-builder"
+      ],
       "github": "https://github.com/sardorml/tailit",
       "license": "MIT",
       "stars": 15,
-      "featured": false
+      "addedAt": "2026-07-02",
+      "section": "meets-criteria"
     },
     {
       "id": "giraffile",
@@ -2173,11 +3083,15 @@
       "description": "Share files quickly and securely without relying on cloud servers",
       "url": "https://giraffile.pages.dev/",
       "category": "utilities",
-      "tags": ["file-transfer", "file-share"],
+      "tags": [
+        "file-transfer",
+        "file-share"
+      ],
       "github": "https://github.com/coffeetron832/Giraffile",
       "license": "MIT",
       "stars": 78,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "openreader",
@@ -2185,11 +3099,17 @@
       "description": "Text-to-speech document reader built with Next.js for EPUB, PDF, TXT, MD, and DOCX with multilingual, synchronized read-along playback",
       "url": "https://openreader.richardr.dev/app",
       "category": "utilities",
-      "tags": ["pdf-reader", "epub-reader", "ebook-reader", "text-to-speech"],
+      "tags": [
+        "pdf-reader",
+        "epub-reader",
+        "ebook-reader",
+        "text-to-speech"
+      ],
       "github": "https://github.com/richardr1126/openreader",
       "license": "MIT",
       "stars": 472,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "readest",
@@ -2197,11 +3117,16 @@
       "description": "Ebook reader designed for immersive and deep reading experiences",
       "url": "https://web.readest.com/",
       "category": "utilities",
-      "tags": ["pdf-reader", "epub-reader", "ebook-reader"],
+      "tags": [
+        "pdf-reader",
+        "epub-reader",
+        "ebook-reader"
+      ],
       "github": "https://github.com/readest/readest",
       "license": "AGPL-3.0",
       "stars": 22391,
-      "featured": true
+      "addedAt": "2026-07-07",
+      "section": "featured"
     },
     {
       "id": "gitfut",
@@ -2209,11 +3134,15 @@
       "description": "Your GitHub, rated out of 99 ⚽",
       "url": "https://gitfut.com/",
       "category": "development",
-      "tags": ["fun", "github-profile"],
+      "tags": [
+        "fun",
+        "github-profile"
+      ],
       "github": "https://github.com/younesfdj/gitfut",
       "license": "MIT",
       "stars": 2139,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "checkmygit",
@@ -2221,11 +3150,15 @@
       "description": "Transform any GitHub profile into a stunning portfolio in seconds.",
       "url": "https://checkmygit.com/",
       "category": "development",
-      "tags": ["GitHub-profile", "stats"],
+      "tags": [
+        "GitHub-profile",
+        "stats"
+      ],
       "github": "https://github.com/whoisyurii/checkmygit",
       "license": "MIT",
       "stars": 620,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "strong-editor",
@@ -2233,11 +3166,15 @@
       "description": "Text editor that highlights poor wording in real-time - and makes you write better",
       "url": "https://strongeditor.com/",
       "category": "writing",
-      "tags": ["writing-assistant", "text-editor"],
+      "tags": [
+        "writing-assistant",
+        "text-editor"
+      ],
       "github": "https://github.com/Great-Software-Company/strongeditor",
       "license": "GPL-3.0",
       "stars": 6,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "shareclean",
@@ -2245,11 +3182,18 @@
       "description": "A tool for sanitizing logs, stack traces, config snippets, and terminal output before you paste them into GitHub issues, support tickets, Slack, or AI chats.",
       "url": "https://omarh-creator.github.io/ShareClean/#playground",
       "category": "privacy",
-      "tags": ["sanitize-text", "clean-text", "traces", "logs", "configs"],
+      "tags": [
+        "sanitize-text",
+        "clean-text",
+        "traces",
+        "logs",
+        "configs"
+      ],
       "github": "https://github.com/OmarH-creator/ShareClean",
       "license": "MIT",
       "stars": 15,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "beziermotion",
@@ -2257,11 +3201,16 @@
       "description": "A visual cubic-bezier curve editor for crafting custom CSS easing functions",
       "url": "https://tughloks.github.io/BezierMotion/",
       "category": "development",
-      "tags": ["bezier", "motion", "visualizer"],
+      "tags": [
+        "bezier",
+        "motion",
+        "visualizer"
+      ],
       "github": "https://github.com/TughlokS/BezierMotion",
       "license": "?",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "word-aligner",
@@ -2269,11 +3218,14 @@
       "description": "Link words across a translation, then export the diagram.",
       "url": "https://aligner.tinygods.dev",
       "category": "design",
-      "tags": ["word-aligner"],
+      "tags": [
+        "word-aligner"
+      ],
       "github": "https://github.com/tinygodsdev/bitext-word-alignment",
       "license": "MIT",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "log-voyager",
@@ -2281,11 +3233,16 @@
       "description": "Analyze huge log files (10GB+). Features JSON prettifier, regex filtering, and bookmarks.",
       "url": "https://www.logvoyager.cc/",
       "category": "development",
-      "tags": ["logs", "analyze", "visualize"],
+      "tags": [
+        "logs",
+        "analyze",
+        "visualize"
+      ],
       "github": "https://github.com/hsr88/log-voyager",
       "license": "MIT",
       "stars": 117,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "csv-repair",
@@ -2293,11 +3250,17 @@
       "description": "A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files",
       "url": "https://www.csv.repair/",
       "category": "development",
-      "tags": ["csv", "analyze", "visualize", "query"],
+      "tags": [
+        "csv",
+        "analyze",
+        "visualize",
+        "query"
+      ],
       "github": "https://github.com/hsr88/csv-repair",
       "license": "?",
       "stars": 9,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "free-fordev",
@@ -2305,11 +3268,17 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://free-for.dev/#/",
       "category": "lists",
-      "tags": ["resources-list", "free-tiers", "paas", "saas"],
+      "tags": [
+        "resources-list",
+        "free-tiers",
+        "paas",
+        "saas"
+      ],
       "github": "https://github.com/ripienaar/free-for-dev",
       "license": "?",
       "stars": 129435,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "freemediaheckyeah",
@@ -2317,11 +3286,15 @@
       "description": "The largest collection of free stuff on the internet!",
       "url": "https://fmhy.net/",
       "category": "lists",
-      "tags": ["free-media", "resource-list"],
+      "tags": [
+        "free-media",
+        "resource-list"
+      ],
       "github": "https://github.com/fmhy/edit",
       "license": "?",
       "stars": 10688,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "openreel",
@@ -2329,11 +3302,15 @@
       "description": "Open source CapCut alternative",
       "url": "https://openreel.video/",
       "category": "media",
-      "tags": ["video-editor", "reel-maker"],
+      "tags": [
+        "video-editor",
+        "reel-maker"
+      ],
       "github": "https://github.com/Augani/openreel-video",
       "license": "MIT",
       "stars": 4375,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "openvid",
@@ -2341,11 +3318,16 @@
       "description": "Platform designed to transform raw screen recordings into polished, high-quality demonstration videos",
       "url": "https://openvid.dev/en",
       "category": "media",
-      "tags": ["video-editor", "demonstration-maker", "tutorial-maker"],
+      "tags": [
+        "video-editor",
+        "demonstration-maker",
+        "tutorial-maker"
+      ],
       "github": "https://github.com/CristianOlivera1/openvid",
       "license": "NC",
       "stars": 1538,
-      "featured": true
+      "addedAt": "2026-07-07",
+      "section": "featured"
     },
     {
       "id": "faviconapi",
@@ -2353,11 +3335,15 @@
       "description": "Get the highest resolution favicon for any domain or look up a service icon by name.",
       "url": "https://faviconapi.com",
       "category": "development",
-      "tags": ["favicon", "favicon-list"],
+      "tags": [
+        "favicon",
+        "favicon-list"
+      ],
       "github": "https://github.com/R0GGER/favicon-api/",
       "license": "?",
       "stars": 2,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "qtransfer",
@@ -2365,11 +3351,15 @@
       "description": "Easly connects 2 browsers to transfer files",
       "url": "https://transfer-cv5.pages.dev/",
       "category": "utilities",
-      "tags": ["file-transfer", "file-share"],
+      "tags": [
+        "file-transfer",
+        "file-share"
+      ],
       "github": "https://github.com/atlanticsupport/quick-transfer",
       "license": "?",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "daggerheart-gm-screen",
@@ -2377,11 +3367,15 @@
       "description": "Daggerheart GM Screen",
       "url": "https://jutier.github.io/Daggerheart/",
       "category": "utilities",
-      "tags": ["gm-ui", "role-play"],
+      "tags": [
+        "gm-ui",
+        "role-play"
+      ],
       "github": "https://github.com/Jutier/Daggerheart",
       "license": "?",
       "stars": 8,
-      "featured": false
+      "addedAt": "2026-07-07",
+      "section": "meets-criteria"
     },
     {
       "id": "the-missing-manual",
@@ -2398,7 +3392,8 @@
       "github": "https://github.com/Topurrra/themissingmanual",
       "license": "CC-BY-SA-4.0",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "roadmapssh",
@@ -2416,7 +3411,8 @@
       "github": "https://github.com/nilbuild/developer-roadmap",
       "license": "Custom",
       "stars": 361129,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "relay",
@@ -2424,11 +3420,15 @@
       "description": "WebRTC peer-to-peer file transfer",
       "url": "https://relay.rishishah.in",
       "category": "utilities",
-      "tags": ["file-transfer", "file-share"],
+      "tags": [
+        "file-transfer",
+        "file-share"
+      ],
       "github": "https://github.com/byrishi/Relay",
       "license": "MIT",
       "stars": 5,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "ffmpeg-cli-online",
@@ -2436,11 +3436,15 @@
       "description": "Run ffmpeg directly in your browser with a terminal-like interface.",
       "url": "https://ffmpeg.wide.video",
       "category": "development",
-      "tags": ["ffmpeg", "cli"],
+      "tags": [
+        "ffmpeg",
+        "cli"
+      ],
       "github": "https://github.com/wide-video/ffmpeg-wasm",
       "license": "GPL-3.0",
       "stars": 19,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "colorkit",
@@ -2448,11 +3452,16 @@
       "description": "feature-rich color picker and analysis tool",
       "url": "https://colorskit.vercel.app/",
       "category": "design",
-      "tags": ["color-picker", "gradient-maker", "color-pallete"],
+      "tags": [
+        "color-picker",
+        "gradient-maker",
+        "color-pallete"
+      ],
       "github": "https://github.com/codewithdhruba01/ColorPicker",
       "license": "MIT",
       "stars": 4,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "open-razerkit",
@@ -2460,11 +3469,15 @@
       "description": "Control your Razer device's RGB, effects, and settings",
       "url": "https://hamzayslmn.github.io/open-razerkit/",
       "category": "utilities",
-      "tags": ["razor", "rgb-control"],
+      "tags": [
+        "razor",
+        "rgb-control"
+      ],
       "github": "https://github.com/HamzaYslmn/open-razerkit",
       "license": "Custom",
       "stars": 15,
-      "featured": false
+      "addedAt": "2026-07-09",
+      "section": "meets-criteria"
     },
     {
       "id": "app-store-web-search",
@@ -2472,11 +3485,15 @@
       "description": "A web app that enables you to search the Apple App Store in your browser and view app meta-data.",
       "url": "https://vexelon.net/asws",
       "category": "development",
-      "tags": ["app-store-search", "search"],
+      "tags": [
+        "app-store-search",
+        "search"
+      ],
       "github": "https://github.com/petarov/appstore-web-search",
       "license": "MIT",
       "stars": 14,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "quizbun",
@@ -2484,11 +3501,17 @@
       "description": "static, explanation-first quiz catalog for self-learners, with public quizzes, private local imports, and an AI-first quiz format",
       "url": "https://a-dev.github.io/quizbun/",
       "category": "education",
-      "tags": ["quiz-maker", "quizzes-library", "quiz-ai", "quizzes"],
+      "tags": [
+        "quiz-maker",
+        "quizzes-library",
+        "quiz-ai",
+        "quizzes"
+      ],
       "github": "https://github.com/a-dev/quizbun",
       "license": "MIT",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "e2ecp",
@@ -2496,11 +3519,15 @@
       "description": "Transfer files between machines through the web, through a CLI, or both fully end-to-end encrypted. Made by the dev of croc file transfer",
       "url": "https://e2ecp.com",
       "category": "utilities",
-      "tags": ["file-transfer", "file-share"],
+      "tags": [
+        "file-transfer",
+        "file-share"
+      ],
       "github": "https://github.com/schollz/e2ecp",
       "license": "MIT",
       "stars": 502,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "osint-framework",
@@ -2508,11 +3535,18 @@
       "description": "An open-source, browser-based directory of OSINT tools and resources organized by investigation category.",
       "url": "https://osintframework.com/",
       "category": "lists",
-      "tags": ["directory", "list", "osint-tools", "intelligence", "research"],
+      "tags": [
+        "directory",
+        "list",
+        "osint-tools",
+        "intelligence",
+        "research"
+      ],
       "github": "https://github.com/lockfale/OSINT-Framework",
       "license": "MIT",
       "stars": 11699,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "openhero",
@@ -2520,11 +3554,14 @@
       "description": "collection of cinematic video hero sections Browse, preview, copy & download production-ready backgrounds - instantly",
       "url": "https://openhero.art/",
       "category": "development",
-      "tags": ["hero-sections"],
+      "tags": [
+        "hero-sections"
+      ],
       "github": "https://github.com/CristianOlivera1/openhero",
       "license": "MIT",
       "stars": 324,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "freecut",
@@ -2532,11 +3569,15 @@
       "description": "Professional video editing, zero installation. Create stunning content in your browser",
       "url": "https://freecut.net",
       "category": "media",
-      "tags": ["capcut-alternative", "video-editor"],
+      "tags": [
+        "capcut-alternative",
+        "video-editor"
+      ],
       "github": "https://github.com/walterlow/freecut",
       "license": "MIT",
       "stars": 1685,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "enumbers-lookup",
@@ -2544,11 +3585,15 @@
       "description": "A modern web application for looking up E-number food additives with comprehensive data from Open Food Facts",
       "url": "https://enumbers.jarvisdiscordbot.net/",
       "category": "utilities",
-      "tags": ["food-additives", "lookup"],
+      "tags": [
+        "food-additives",
+        "lookup"
+      ],
       "github": "https://github.com/JARVIS-discordbot/e-numbers",
       "license": "CC-BY-SA-3.0",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "ul0",
@@ -2556,11 +3601,14 @@
       "description": "Free URL shortener that lets you create branded short links with custom domains, QR codes, click analytics, and an easy-to-use dashboard",
       "url": "https://ul0.site",
       "category": "utilities",
-      "tags": ["url-shortener"],
+      "tags": [
+        "url-shortener"
+      ],
       "github": "https://github.com/Saketkesar/ul0",
       "license": "?",
       "stars": 1,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "owncardly",
@@ -2568,11 +3616,14 @@
       "description": "Digital business cards you actually own",
       "url": "https://owncardly.com/",
       "category": "utilities",
-      "tags": ["business-card-maker"],
+      "tags": [
+        "business-card-maker"
+      ],
       "github": "https://github.com/kevinwielander/digital-business-cards",
       "license": "MIT",
       "stars": 16,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "codemap-ai",
@@ -2580,11 +3631,16 @@
       "description": "helps developers, especially beginners in open source, understand large repositories faster without getting lost trying to figure out where to start",
       "url": "https://code-map-ai-mu.vercel.app/",
       "category": "development",
-      "tags": ["code-base-mapper", "repo-mapper", "github-repo-mapper"],
+      "tags": [
+        "code-base-mapper",
+        "repo-mapper",
+        "github-repo-mapper"
+      ],
       "github": "https://github.com/Ayansh0209/CodeMap-Ai",
       "license": "MIT",
       "stars": 12,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "markmap",
@@ -2592,11 +3648,16 @@
       "description": "Creates interactive mind maps from Markdown with a live editor and visualization",
       "url": "https://markmap.js.org/",
       "category": "development",
-      "tags": ["markdown", "mind-map", "visualization"],
+      "tags": [
+        "markdown",
+        "mind-map",
+        "visualization"
+      ],
       "github": "https://github.com/markmap/markmap",
       "license": "MIT",
       "stars": 12961,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "kroki",
@@ -2604,11 +3665,18 @@
       "description": "diagram rendering service that generates diagrams from text using tools like Mermaid, PlantUML, Graphviz, and more",
       "url": "https://kroki.io/#try",
       "category": "development",
-      "tags": ["diagram", "mermaid", "plantuml", "uml", "visualization"],
+      "tags": [
+        "diagram",
+        "mermaid",
+        "plantuml",
+        "uml",
+        "visualization"
+      ],
       "github": "https://github.com/yuzutech/kroki",
       "license": "MIT",
       "stars": 4241,
-      "featured": false
+      "addedAt": "2026-07-12",
+      "section": "meets-criteria"
     },
     {
       "id": "unicon",
@@ -2616,11 +3684,14 @@
       "description": "Convert any Unicode symbol, emoji, or glyph into a custom favicon",
       "url": "https://unicon-tool.vercel.app/",
       "category": "design",
-      "tags": ["favicon-maker"],
+      "tags": [
+        "favicon-maker"
+      ],
       "github": "https://github.com/waferflopai/unicon-tool",
       "license": "MIT",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "sarx",
@@ -2628,11 +3699,15 @@
       "description": "Enter your stats once and get a full picture of your health: what your numbers mean, where your goals should be, and the knowledge to back it up",
       "url": "https://www.sarx.app",
       "category": "utilities",
-      "tags": ["bmi", "wellness"],
+      "tags": [
+        "bmi",
+        "wellness"
+      ],
       "github": "https://github.com/Chaissonc/Sarx",
       "license": "?",
       "stars": 0,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "design-systems-checklist",
@@ -2640,11 +3715,15 @@
       "description": "checklist to help you plan, build and grow your design system",
       "url": "https://designsystemchecklist.com/",
       "category": "design",
-      "tags": ["design-system-checklist", "checklist"],
+      "tags": [
+        "design-system-checklist",
+        "checklist"
+      ],
       "github": "https://github.com/ardakaracizmeli/design-system-checklist",
       "license": "?",
       "stars": 488,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "amicro",
@@ -2652,11 +3731,15 @@
       "description": "A curated library of premium React micro-interactions and transition components powered by Motion.",
       "url": "https://amicro.vercel.app/",
       "category": "development",
-      "tags": ["component-library", "react"],
+      "tags": [
+        "component-library",
+        "react"
+      ],
       "github": "https://github.com/Subhan-code/Amicro--Micro-transitions-",
       "license": "?",
       "stars": 206,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "postbaby",
@@ -2664,11 +3747,15 @@
       "description": "Provides a board for quick little notes post-it like",
       "url": "https://postbaby.org/",
       "category": "productivity",
-      "tags": ["post-it-notes", "post-it-board"],
+      "tags": [
+        "post-it-notes",
+        "post-it-board"
+      ],
       "github": "https://github.com/markrai/postbaby?ref=selfh.st",
       "license": "PHU",
       "stars": 47,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "terminalsexy",
@@ -2676,11 +3763,15 @@
       "description": "A terminal theme designer",
       "url": "https://terminal.sexy",
       "category": "utilities",
-      "tags": ["terminal", "theme-designer"],
+      "tags": [
+        "terminal",
+        "theme-designer"
+      ],
       "github": "https://github.com/stayradiated/terminal.sexy",
       "license": "MIT",
       "stars": 981,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "lanjut",
@@ -2688,11 +3779,15 @@
       "description": "ATS-Friendly Resume Builder",
       "url": "https://lanjut.rimzzlabs.com",
       "category": "productivity",
-      "tags": ["resume-builder", "cv-builder"],
+      "tags": [
+        "resume-builder",
+        "cv-builder"
+      ],
       "github": "https://github.com/rimzzlabs/lanjut",
       "license": "AGPL-3.0",
       "stars": 37,
-      "featured": true
+      "addedAt": "2026-07-15",
+      "section": "featured"
     },
     {
       "id": "markdown2pdf",
@@ -2700,11 +3795,15 @@
       "description": "A markdown to PDF converter & live previewer",
       "url": "https://markdown2pdfconverter.vercel.app/",
       "category": "writing",
-      "tags": ["markdown-to-pdf", "markdown-preview"],
+      "tags": [
+        "markdown-to-pdf",
+        "markdown-preview"
+      ],
       "github": "https://github.com/sahilatahar/markdown2pdf",
       "license": "MIT",
       "stars": 6,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "avnac",
@@ -2712,11 +3811,14 @@
       "description": "design editor for posters, layouts, social graphics, and other canvas-based compositions",
       "url": "https://avnac.design/",
       "category": "design",
-      "tags": ["poster-designer"],
+      "tags": [
+        "poster-designer"
+      ],
       "github": "https://github.com/xt42io/avnac",
       "license": "AGPL-3.0",
       "stars": 1524,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "openmosh",
@@ -2724,11 +3826,16 @@
       "description": "Datamosh your photos and videos, glitch effects in sync with music.",
       "url": "https://open-mosh.vercel.app/",
       "category": "design",
-      "tags": ["glitch-effect", "photo-effects", "lite-photo-editor"],
+      "tags": [
+        "glitch-effect",
+        "photo-effects",
+        "lite-photo-editor"
+      ],
       "github": "https://github.com/zivavu/OpenMosh",
       "license": "MIT",
       "stars": 2,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "monkeytype",
@@ -2736,11 +3843,16 @@
       "description": "The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed",
       "url": "https://monkeytype.com/",
       "category": "productivity",
-      "tags": ["typing-tool", "learn-to-type", "type-speed"],
+      "tags": [
+        "typing-tool",
+        "learn-to-type",
+        "type-speed"
+      ],
       "github": "https://github.com/monkeytypegame/monkeytype",
       "license": "GPL-3.0",
       "stars": 20371,
-      "featured": false
+      "addedAt": "2026-07-15",
+      "section": "meets-criteria"
     },
     {
       "id": "bottleship",
@@ -2748,11 +3860,17 @@
       "description": "Run classic Windows games in your browser",
       "url": "https://bottleship.pages.dev/",
       "category": "utilities",
-      "tags": ["gaming", "emulator", "retro", "windows"],
+      "tags": [
+        "gaming",
+        "emulator",
+        "retro",
+        "windows"
+      ],
       "github": "https://github.com/jenissimo/bottleship",
       "license": "Apache-2.0",
       "stars": 61,
-      "featured": true
+      "addedAt": "2026-07-15",
+      "section": "featured"
     }
   ]
 }

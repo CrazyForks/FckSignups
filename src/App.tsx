@@ -13,6 +13,7 @@ export default function App() {
   const {
     tools,
     filteredTools,
+    sections,
     categories,
     loadStatus,
     errorMessage,
@@ -23,10 +24,6 @@ export default function App() {
   } = useTools();
 
   const activeCat = categories.find((c) => c.id === activeCategory);
-  const sectionLabel =
-    activeCat && activeCat.id !== "all"
-      ? `${activeCat.icon} ${activeCat.name}`
-      : "All Tools";
 
   return (
     <>
@@ -46,14 +43,20 @@ export default function App() {
           onCategoryChange={setActiveCategory}
           onSearchChange={setSearchQuery}
         />
-        <div className="section-divider">{sectionLabel}</div>
+        {activeCat && activeCat.id !== "all" && (
+          <div className="section-divider">
+            {`${activeCat.icon} ${activeCat.name}`}
+          </div>
+        )}
 
         <ReportProvider>
           <ToolGrid
-            tools={filteredTools}
+            sections={sections}
             categories={categories}
             loadStatus={loadStatus}
             errorMessage={errorMessage}
+            searchQuery={searchQuery}
+            activeCategory={activeCategory}
             setSearchQuery={setSearchQuery}
           />
 

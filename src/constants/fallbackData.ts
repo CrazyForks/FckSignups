@@ -51,7 +51,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/excalidraw/excalidraw",
       license: "MIT",
       stars: 72000,
-      featured: true,
+      addedAt: "2026-05-07",
+      section: "featured",
     },
     {
       id: "kleki",
@@ -61,7 +62,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://kleki.com",
       category: "design",
       tags: ["paint", "layers", "brushes", "drawing"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "pixel-craft",
@@ -74,7 +76,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/pixelcraftstudio/pixelcraft",
       license: "MIT",
       stars: 650,
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "photopea",
@@ -84,7 +87,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://photopea.com",
       category: "design",
       tags: ["photoshop", "psd", "editor", "professional"],
-      featured: true,
+      addedAt: "2026-05-07",
+      section: "featured",
     },
     {
       id: "waifu2x",
@@ -97,7 +101,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/nagadomi/waifu2x",
       license: "MIT",
       stars: 21000,
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "json-crack",
@@ -110,7 +115,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/AykutSarac/jsoncrack.com",
       license: "MIT",
       stars: 28000,
-      featured: true,
+      addedAt: "2026-06-17",
+      section: "meets-criteria",
     },
     {
       id: "regex101",
@@ -120,7 +126,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://regex101.com",
       category: "dev",
       tags: ["regex", "testing", "debugger", "explain"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "carbon",
@@ -133,7 +140,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/carbon-app/carbon",
       license: "MIT",
       stars: 34000,
-      featured: false,
+      addedAt: "2026-06-28",
+      section: "meets-criteria",
     },
     {
       id: "randommer",
@@ -143,7 +151,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://randommer.io",
       category: "utilities",
       tags: ["random", "generator", "data", "testing"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "tinywow",
@@ -153,7 +162,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://tinywow.com",
       category: "utilities",
       tags: ["converter", "pdf", "tools", "free"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "temp-mail",
@@ -163,7 +173,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://temp-mail.org",
       category: "privacy",
       tags: ["temp-email", "anonymous", "inbox", "disposable"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "duckduckgo-email",
@@ -173,7 +184,8 @@ export const FALLBACK_DATA: ToolsData = {
       url: "https://duckduckgo.com/email",
       category: "privacy",
       tags: ["email", "privacy", "alias", "burner"],
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "cryptpad",
@@ -186,7 +198,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/cryptpad/cryptpad",
       license: "AGPL-3.0",
       stars: 5200,
-      featured: true,
+      addedAt: "2026-05-07",
+      section: "featured",
     },
     {
       id: "draw-io",
@@ -199,7 +212,8 @@ export const FALLBACK_DATA: ToolsData = {
       github: "https://github.com/jgraph/drawio",
       license: "Apache-2.0",
       stars: 42000,
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
     {
       id: "libreoffice-online",
@@ -211,7 +225,8 @@ export const FALLBACK_DATA: ToolsData = {
       tags: ["office", "documents", "spreadsheets", "presentations"],
       github: "https://github.com/LibreOffice/core",
       license: "MPL-2.0",
-      featured: false,
+      addedAt: "2026-05-07",
+      section: "meets-criteria",
     },
   ],
 };

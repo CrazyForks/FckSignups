@@ -1,3 +1,7 @@
+export type ToolSection = "featured" | "editors-pick" | "meets-criteria";
+
+export type ToolFlag = "new" | "abandoned";
+
 export interface Tool {
   id: string;
   name: string;
@@ -8,7 +12,9 @@ export interface Tool {
   github?: string;
   license?: string;
   stars?: number;
-  featured?: boolean;
+  section?: ToolSection;
+  flag?: ToolFlag;
+  addedAt?: string;
   notRecommendedReason?: string;
 }
 

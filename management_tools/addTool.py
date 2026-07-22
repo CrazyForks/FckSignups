@@ -1,3 +1,4 @@
+from datetime import date
 from json import JSONDecodeError, dump, load
 from re import sub
 
@@ -53,10 +54,11 @@ def getToolInput():
         "github": "",
         "license": "",
         "stars": 0,
-        "featured": False,
+        "addedAt": date.today().isoformat(),
+        "section": "meets-criteria",
     }
 
-    keys_for_input = get_non_excluded_keys(tool_obj, ["id", "featured"])
+    keys_for_input = get_non_excluded_keys(tool_obj, ["id", "section", "addedAt"])
 
     for key in keys_for_input:
         if isinstance(tool_obj[key], str):

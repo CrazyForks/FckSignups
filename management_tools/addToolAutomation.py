@@ -4,6 +4,8 @@
 # tools.json file. The tool will also send requests to GitHub to fetch
 # the accurate count of stars and license info.
 
+from datetime import date
+
 from addTool import (
     JSON_PATH,
     getArrayInput,
@@ -45,7 +47,8 @@ def createToolDict(fields):
         "github": repoBridge.getURL(),
         "license": repoBridge.getLicense(),
         "stars": repoBridge.getStars(),
-        "featured": False,
+        "addedAt": date.today().isoformat(),
+        "section": "meets-criteria",
     }
 
     new_tool_json["category"] = getInput("Category: ")
